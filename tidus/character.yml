@@ -1,0 +1,226 @@
+profile:
+  favoriteDrink: IrishCream
+  height: 1.0806924
+  _antagPreferences: []
+  _traitPreferences:
+  - Unborgable
+  - CumProducer
+  - SignLanguage
+  - CyberEyes
+  - FlareShielding
+  - WillToLive
+  - CulinaryAdaptationTheobromine
+  - NormalVision
+  - CulinaryAdaptationAllicin
+  - AddictionNicotine
+  - CyberEyesMedical
+  _loadoutPreferences:
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemOcarina
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutWebRing
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemStickyNotes
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutMaskMuzzle
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#FFFFFFFF'
+    customDescription: null
+    customName: Miu's leash
+    loadoutName: LoadoutItemLeashBasic
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutOuterDenimJacket
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemEnvelopes
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#FFF0C4FF'
+    customDescription: A faded looking satchel, with a tag attached, Tidus Herboren.
+    customName: Tidus' satchel
+    loadoutName: LoadoutBackpackSatchel
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutUniformJumpsuitTshirtJeansPeach
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemCigsRed
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemHandheldStationMap
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutNeckHeadphones
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEyesGlasses
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: Tidus' lighter
+    loadoutName: LoadoutItemLighterFlippo
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: A pretty uninspiring canine dildo. Seems smaller than the real thing.
+    customName: Tidus replica dildo
+    loadoutName: LoadoutItemCanineDildoRed
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutHeadLily
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemFlute
+    selected: True
+  name: Tidus Herboren
+  flavorText: >-
+    A confident look on his face, his uniform gripping tight to his upper body showing signs of recent bulk without new clothing. Standing at 6'3" (190cm), seems focused and alert.
+
+
+    Art url: tidus.art
+
+
+    Unkempt, straw-blonde hair, a few hidden greys, fading to a chestnut color at the back. Thick, but combed dark eyebrows. Bright green kind eyes, hidden slightly by his glasses. A small tuft of fur sticks out under his chin.
+
+
+    Well toned upper body with a fluffy white chest crest. Extremely floofy tail, leading to a light tip.
+
+
+    Carries himself a little goofy, and seems easily distracted.
+  species: Vulpkanin
+  customspeciename: ""
+  width: 1.043539
+  preferenceUnavailable: SpawnAsOverflow
+  age: 35
+  sex: Male
+  gender: Male
+  appearance:
+    markings:
+    - markingId: ChestCutHere
+      visible: True
+      markingColor:
+      - '#D2D2D2FF'
+    - markingId: HumanoidAbs
+      visible: True
+      markingColor:
+      - '#F6F6F6FF'
+    - markingId: VulpBellyFull
+      visible: True
+      markingColor:
+      - '#FFFFFFFF'
+    - markingId: VulpEar
+      visible: True
+      markingColor:
+      - '#A49258FF'
+      - '#E5E2D8FF'
+    - markingId: VulpHeadSlash
+      visible: True
+      markingColor:
+      - '#C8B88CFF'
+    - markingId: VulpHeadTigerFace
+      visible: True
+      markingColor:
+      - '#B09D68FF'
+    - markingId: VulpSnout
+      visible: True
+      markingColor:
+      - '#FFF6DCFF'
+      - '#83754BFF'
+    - markingId: VulpTail
+      visible: True
+      markingColor:
+      - '#BCA86BFF'
+      - '#F2F2F2FF'
+      - '#FFFFFFFF'
+      - '#FFFFFFFF'
+    - markingId: EarringsStudRight
+      visible: True
+      markingColor:
+      - '#303030FF'
+    - markingId: FaceNeckWide
+      visible: True
+      markingColor:
+      - '#A9A189FF'
+    - markingId: VulpPointsCrestLegR
+      visible: True
+      markingColor:
+      - '#9D8C59FF'
+    - markingId: SpeciesAdaptorVulpkaninRLeg
+      visible: True
+      markingColor:
+      - '#CCB674FF'
+    - markingId: VulpPointsFadeLegs
+      visible: True
+      markingColor:
+      - '#D6BF7AFF'
+    - markingId: SpeciesAdaptorVulpkaninLLeg
+      visible: True
+      markingColor:
+      - '#BEA96CFF'
+    - markingId: WristWatchGoldLeft
+      visible: True
+      markingColor:
+      - '#FFFFFFFF'
+    - markingId: VulpPointsHandsLeft
+      visible: True
+      markingColor:
+      - '#C9B372FF'
+    skinColor: '#BCA86BFF'
+    eyeColor: '#25D18CFF'
+    facialHairColor: '#837450FF'
+    facialHair: VulpFacialHairKita
+    hairColor: '#E4D4A2FF'
+    hair: HumanHairCia
+  clothing: Jumpsuit
+  backpack: Backpack
+  spawnPriority: Cryosleep
+  _jobPriorities:
+    TechnicalAssistant: High
+version: 1
+forkId: floof-station-nova
+...
