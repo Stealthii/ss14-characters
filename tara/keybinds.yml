@@ -191,7 +191,7 @@ binds:
   mod1: Shift
   key: MouseLeft
   type: Command
-  function: me hand is shaking.
+  function: me taps her headset.
 - mod3: Control
   mod2: Shift
   mod1: Alt
@@ -241,7 +241,7 @@ binds:
   mod1: Alt
   key: L
   type: Command
-  function: subtle takes in a sniff.
+  function: subtle takes in a sharp breath.
 - mod2: Control
   mod1: Shift
   key: Z
@@ -285,7 +285,7 @@ binds:
   mod1: Alt
   key: F
   type: Command
-  function: subtle grimaces.
+  function: subtle moans!
 - mod2: Control
   mod1: Shift
   key: I
@@ -340,7 +340,7 @@ binds:
   mod1: Alt
   key: Num5
   type: Command
-  function: subtle winks.
+  function: subtle narrows her eyes.
 - mod2: Control
   mod1: Shift
   key: Num6
@@ -351,7 +351,7 @@ binds:
   mod1: Alt
   key: Num6
   type: Command
-  function: subtle flinches.
+  function: subtle flinches at the touch.
 - mod2: Control
   mod1: Shift
   key: Num7
