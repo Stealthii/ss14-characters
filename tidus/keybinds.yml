@@ -32,7 +32,7 @@ binds:
   mod1: Shift
   type: Command
   key: T
-  function: me gives a little wave.
+  function: me waves his hand excitedly.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -164,7 +164,7 @@ binds:
   mod1: Shift
   type: Command
   key: C
-  function: subtle flips a finger behind them.
+  function: subtle flips a finger on each hand behind them.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -180,7 +180,7 @@ binds:
   mod1: Shift
   type: Command
   key: B
-  function: me shrugs.
+  function: me shrugs his shoulders.
 - mod3: Alt
   mod2: Control
   mod1: Shift
@@ -241,7 +241,7 @@ binds:
   mod1: Shift
   type: Command
   key: L
-  function: subtle takes a sniff.
+  function: subtle takes a big sniff.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -252,7 +252,7 @@ binds:
   mod1: Shift
   type: Command
   key: Z
-  function: subtle beams.
+  function: me grins, showing his teeth.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -285,7 +285,7 @@ binds:
   mod1: Shift
   type: Command
   key: F
-  function: me whines.
+  function: me whimpers.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -296,7 +296,7 @@ binds:
   mod1: Shift
   type: Command
   key: I
-  function: subtle twitches his tail.
+  function: subtle baps with his tail.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -351,7 +351,7 @@ binds:
   mod1: Shift
   type: Command
   key: Num6
-  function: subtle flinches.
+  function: me splays his ears back.
 - mod2: Control
   mod1: Shift
   type: Command
