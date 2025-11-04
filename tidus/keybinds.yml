@@ -10,7 +10,7 @@ binds:
   mod1: Shift
   type: Command
   key: Q
-  function: subtle blinks slowly.
+  function: me eyes widen.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -48,7 +48,7 @@ binds:
   mod1: Shift
   type: Command
   key: R
-  function: me flexes his forearm.
+  function: me flexes his arm.
 - mod3: Alt
   mod2: Control
   mod1: Shift
@@ -120,7 +120,7 @@ binds:
   mod1: Shift
   type: Command
   key: MouseRight
-  function: subtle holds out his hand.
+  function: me gives a rough handshake.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -142,7 +142,7 @@ binds:
   mod1: Shift
   type: Command
   key: M
-  function: subtle lets out a muffled whimper.
+  function: subtle lets out a muffled whine.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -164,7 +164,7 @@ binds:
   mod1: Shift
   type: Command
   key: C
-  function: subtle flips a finger on each hand behind them.
+  function: subtle flips the bird behind them.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -191,13 +191,13 @@ binds:
   mod1: Shift
   type: Command
   key: MouseLeft
-  function: shakes his fist.
+  function: me taps his headset.
 - mod3: Alt
   mod2: Control
   mod1: Shift
   type: Command
   key: MouseLeft
-  function: subtle hands tremble.
+  function: me does a so-so hand.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -219,7 +219,7 @@ binds:
   mod1: Shift
   type: Command
   key: A
-  function: me salutes dismissively.
+  function: me salutes dramatically.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -285,7 +285,7 @@ binds:
   mod1: Shift
   type: Command
   key: F
-  function: me whimpers.
+  function: me whines.
 - mod2: Control
   mod1: Shift
   type: Command
@@ -387,5 +387,11 @@ binds:
   function: subtle whips his glasses off, looking.
 - key: Shift
   function: Walk
+- canFocus: True
+  mod3: Control
+  mod2: Shift
+  mod1: Alt
+  key: MouseMiddle
+  function: CameraReset
 leaveEmpty: []
 ...
