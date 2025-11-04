@@ -2,390 +2,398 @@ version: 1
 binds:
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Q
+  type: Command
   function: me blinks.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Q
+  type: Command
   function: subtle blinks slowly.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: W
+  type: Command
   function: me claps.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: W
+  type: Command
   function: me claps her hands together.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: T
+  type: Command
   function: me waves.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: T
+  type: Command
   function: me gives a little wave.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: H
+  type: Command
   function: me snaps her fingers.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: H
+  type: Command
   function: subtle touches her fingers together.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: R
+  type: Command
   function: me spins her hand around.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: R
+  type: Command
   function: subtle spins her hand around, gesturing.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: U
+  type: Command
   function: subtle takes a deep breath.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: U
+  type: Command
   function: subtle breathes softly.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: N
+  type: Command
   function: me 's face flushes like her bandana.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: N
+  type: Command
   function: subtle goes a little red.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: E
+  type: Command
   function: me giggles.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: E
+  type: Command
   function: subtle snorts.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Y
+  type: Command
   function: me laughs.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Y
+  type: Command
   function: subtle lets out a little laugh.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: P
+  type: Command
   function: me nods her head.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: P
+  type: Command
   function: subtle nods a little.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: MouseRight
+  type: Command
   function: me flexes her hand.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: MouseRight
+  type: Command
   function: subtle holds out her hand.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: J
+  type: Command
   function: me twirls the glass around in her hand.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: J
+  type: Command
   function: me shakes the bottle slightly.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: M
+  type: Command
   function: me screams!
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: M
+  type: Command
   function: subtle lets out a muffled scream.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: S
+  type: Command
   function: me shakes her head.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: S
+  type: Command
   function: subtle shakes her head lightly.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: C
+  type: Command
   function: me flips a finger.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: C
+  type: Command
   function: subtle flips a finger behind them.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: V
+  type: Command
   function: me frowns.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: V
+  type: Command
   function: subtle frowns slightly.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: B
+  type: Command
   function: me shrugs.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: B
+  type: Command
   function: subtle shrugs lightly.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: MouseLeft
+  type: Command
   function: me hands are shaking.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: MouseLeft
+  type: Command
   function: subtle hands tremble.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: G
+  type: Command
   function: me collapses.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: G
+  type: Command
   function: subtle makes a dying sound.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: A
+  type: Command
   function: me salutes.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: A
+  type: Command
   function: me salutes dismissively.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: K
+  type: Command
   function: me stares.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: K
+  type: Command
   function: subtle glares.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: L
+  type: Command
   function: me sniffs.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: L
-  function: subtle takes a sniff.
+  type: Command
+  function: subtle takes in a sniff.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Z
-  function: subtle smiles with her eyes.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
   type: Command
+  function: me smiles with her eyes.
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Z
-  function: subtle is beaming.
+  type: Command
+  function: subtle beams.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: X
+  type: Command
   function: me raises an eyebrow.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: X
+  type: Command
   function: subtle raises an eyebrow.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: D
+  type: Command
   function: me hums.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: D
+  type: Command
   function: subtle hums.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: F
+  type: Command
   function: me groans!
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: F
+  type: Command
   function: subtle grimaces.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: I
+  type: Command
   function: me jolts her head.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: I
+  type: Command
   function: subtle tilts her head back.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: O
+  type: Command
   function: me rubs her shoulder.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: O
+  type: Command
   function: subtle flicks her hair behind.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Num3
+  type: Command
   function: me closes her eyes.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Num3
+  type: Command
   function: subtle half closes her eyes.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Num4
+  type: Command
   function: me nods slowly.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Num4
+  type: Command
   function: subtle nods slowly.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Num5
+  type: Command
   function: me eye twitches.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Num5
+  type: Command
   function: subtle winks.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Num6
+  type: Command
   function: me flinches.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Num6
+  type: Command
   function: subtle flinches.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Num7
+  type: Command
   function: me drums her fingers.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Num7
+  type: Command
   function: subtle scratches.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Num8
+  type: Command
   function: me puts her hand on her chin.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Num8
+  type: Command
   function: subtle fidgets.
 - mod2: Control
   mod1: Shift
-  type: Command
   key: Num9
+  type: Command
   function: me fixes her bandana.
-- mod3: Alt
-  mod2: Control
-  mod1: Shift
-  type: Command
+- mod3: Control
+  mod2: Shift
+  mod1: Alt
   key: Num9
+  type: Command
   function: subtle adjusts her bandana.
 - key: Shift
   function: Walk
+- key: NumpadNum8
+  function: CameraReset
+- canFocus: True
+  mod3: Control
+  mod2: Shift
+  mod1: Alt
+  key: MouseMiddle
+  function: CameraReset
 leaveEmpty: []
 ...
