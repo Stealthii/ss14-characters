@@ -323,7 +323,8 @@ profile:
   clothing: Jumpsuit
   backpack: Backpack
   spawnPriority: None
-  _jobPriorities: {}
+  _jobPriorities:
+    ChiefEngineer: High
 version: 1
 forkId: floof-station-nova
 ...
