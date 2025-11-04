@@ -1,0 +1,165 @@
+profile:
+  favoriteDrink: null
+  height: 0.8633226
+  _antagPreferences: []
+  _traitPreferences:
+  - Paracusia
+  - TemperatureTolerance
+  - Saturnine
+  - MilkProducer
+  - SquirtProducer
+  - HeavyweightDrunk
+  - MartialArtist
+  - Thieving
+  - Freespeak
+  - BionicPryArm
+  - WillToLive
+  _loadoutPreferences:
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemWhipTeal
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemsPrideLesbianPin
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemStickyNotesBlue
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutShoesBootsJackFake
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#858585FF'
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutBackpackSatchel
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClothingUniformReotaSuit
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemHandheldStationMap
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClicker
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#2F2F2FFF'
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutHandsGlovesFingerlessWhite
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutTacticalMaidHeadband
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemRemoteSignaller
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#DC4444FF'
+    customDescription: null
+    customName: Tara's bandana
+    loadoutName: LoadoutMaskBandWhite
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#822662FF'
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClothingOuterCyberJacketWhite
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemDrinkMREFlask
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemTrumpetInstrument
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemLunchboxGenericFilledRandom
+    selected: True
+  name: Tara Mason
+  flavorText: >-
+    A short human (5'0"), with faded red hair, their face almost entirely hidden by a bandana except for blue eyes. Partially visible appears to be the works of robotic limbs and tension support down the left side of her body.
+
+
+    There's a glint in her eyes, seems cold and distant.
+  species: Human
+  customspeciename: ""
+  width: 0.82562107
+  preferenceUnavailable: SpawnAsOverflow
+  age: 44
+  sex: Female
+  gender: Female
+  appearance:
+    markings:
+    - markingId: CyberLimbsMarkingBishopLArm
+      visible: True
+      markingColor:
+      - '#7F7F7FFF'
+      - '#979797FF'
+      - '#A0A0A0FF'
+    - markingId: CyberLimbsMarkingBishopLHand
+      visible: True
+      markingColor:
+      - '#B3B3B3FF'
+    - markingId: CyberLimbsMarkingBishopLLeg
+      visible: True
+      markingColor:
+      - '#9E9E9EFF'
+      - '#72C6FFFF'
+    - markingId: CyberLimbsMarkingBishopLFoot
+      visible: True
+      markingColor:
+      - '#AAAAAAFF'
+    - markingId: ChestTwistingLeft
+      visible: True
+      markingColor:
+      - '#FFD9C6FF'
+    skinColor: '#FFD9C6FF'
+    eyeColor: '#2C59E0FF'
+    facialHairColor: '#8E0008FF'
+    facialHair: FacialHairShaved
+    hairColor: '#BA441BFF'
+    hair: HumanHairShortovereye
+  clothing: Jumpsuit
+  backpack: Backpack
+  spawnPriority: None
+  _jobPriorities:
+    Passenger: High
+version: 1
+forkId: floof-station-nova
+...
