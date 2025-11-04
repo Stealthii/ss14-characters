@@ -4,13 +4,13 @@ binds:
   mod1: Shift
   key: Q
   type: Command
-  function: me blinks.
+  function: me 's screen flashes.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Q
   type: Command
-  function: subtle screen flashes lightly.
+  function: subtle screen flickers.
 - mod2: Control
   mod1: Shift
   key: W
@@ -21,7 +21,7 @@ binds:
   mod1: Alt
   key: W
   type: Command
-  function: me claps her hands together.
+  function: me pretends to clap.
 - mod2: Control
   mod1: Shift
   key: T
@@ -197,7 +197,7 @@ binds:
   mod1: Alt
   key: MouseLeft
   type: Command
-  function: subtle flicks her tail.
+  function: me jabs her tail, sparking.
 - mod2: Control
   mod1: Shift
   key: G
@@ -334,7 +334,7 @@ binds:
   mod1: Shift
   key: Num5
   type: Command
-  function: me 's screen flashes an alert.
+  function: me flicks her tail.
 - mod3: Control
   mod2: Shift
   mod1: Alt
