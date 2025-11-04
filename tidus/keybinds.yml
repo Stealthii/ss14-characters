@@ -1,0 +1,181 @@
+version: 1
+binds:
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Q
+  function: me blinks.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: W
+  function: me claps.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: T
+  function: me waves.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: H
+  function: me snaps his fingers.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: R
+  function: me flexes his forearm.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: U
+  function: me breathes in.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: N
+  function: me blushes.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: E
+  function: me chuckles.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Y
+  function: me barks.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: P
+  function: me nods his head.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: MouseRight
+  function: me holds his hands up slowly.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: J
+  function: me twirls the glass around in his hand.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: M
+  function: me screams!
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: S
+  function: me shakes his head.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: C
+  function: me flips!
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: V
+  function: me frowns.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: B
+  function: me shrugs.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: MouseLeft
+  function: slap
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: G
+  function: subtle cracks his shoulder.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: A
+  function: me salutes.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: K
+  function: me stares.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: L
+  function: me sniffs.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Z
+  function: me smiles.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: X
+  function: me raises both eyebrows.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: D
+  function: me howls.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: F
+  function: me whines.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: I
+  function: me twitches his tail.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: O
+  function: me twirls his tail.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Num3
+  function: me closes his eyes.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Num4
+  function: me nods, slowly.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Num5
+  function: me flicks his tail.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Num6
+  function: me flicks an ear.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Num7
+  function: me twitches his nose.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Num8
+  function: me scratches the tuft under his chin.
+- mod2: Control
+  mod1: Shift
+  type: Command
+  key: Num9
+  function: me adjusts his glasses.
+- key: Shift
+  function: Walk
+leaveEmpty: []
+...
