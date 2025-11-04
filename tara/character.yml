@@ -1,6 +1,6 @@
 profile:
-  favoriteDrink: null
-  height: 0.8633226
+  favoriteDrink: VodkaTonic
+  height: 0.8800823
   _antagPreferences: []
   _traitPreferences:
   - Paracusia
@@ -8,48 +8,45 @@ profile:
   - Saturnine
   - MilkProducer
   - SquirtProducer
-  - HeavyweightDrunk
+  - Bilingual
   - MartialArtist
-  - Thieving
+  - Masochism
   - Freespeak
-  - BionicPryArm
-  - WillToLive
+  - Trilingual
+  - LightStep
+  - SignLanguage
+  - HeavyweightDrunk
+  - Tradeband
   _loadoutPreferences:
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemWhipTeal
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemsPrideLesbianPin
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemStickyNotesBlue
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutShoesBootsJackFake
-    selected: True
   - customHeirloom: null
     customColorTint: '#858585FF'
     customDescription: null
-    customName: null
+    customName: grey satchel
     loadoutName: LoadoutBackpackSatchel
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutClothingUniformReotaSuit
+    loadoutName: LoadoutEngineeringChiefEngineerUniformSkirt
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemTrumpetInstrumentMusician
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClothingUniformJumpsuitNanotrasenRepresentative
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: A brochure advertising the freighter formally known as Argo IV, now a converted apartment vessel.
+    customName: The Argo
+    loadoutName: LoadoutBookRandom
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -61,43 +58,157 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutClicker
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#2F2F2FFF'
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutHandsGlovesFingerlessWhite
+    loadoutName: LoadoutChiefEngineerBeltFilled
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutTacticalMaidHeadband
+    loadoutName: LoadoutEngineeringUniformJumpskirtSenior
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutItemRemoteSignaller
+    loadoutName: LoadoutChiefEngineerEquipmentSheetPGlass10
     selected: True
   - customHeirloom: null
-    customColorTint: '#DC4444FF'
-    customDescription: null
-    customName: Tara's bandana
-    loadoutName: LoadoutMaskBandWhite
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#822662FF'
-    customDescription: null
-    customName: null
+    customColorTint: '#FFBF1CFF'
+    customDescription: one of LITH's spare jackets, lent to a friend.
+    customName: LITH's jacket
     loadoutName: LoadoutClothingOuterCyberJacketWhite
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
+    loadoutName: LoadoutChiefEngineerEquipmentSheetPlastic10
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringChiefEngineerNeckCloak
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemWhipTeal
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: Contains some Cygni etching on the side, as well as a few extra expansion ports on the back.
+    customName: ' ГИ Cygni PDA unit'
+    loadoutName: LoadoutChiefEngineerNTPDA
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutChiefEngineerEquipmentSheetRPGlass10
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutShoesBootsJackFake
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClicker
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutHeadPoppy
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutServiceBartenderRifleBigRubberSpeedloader
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutTechnicalAssistantEquipmentBoxInflatable
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutServiceBartenderRifleBigRubber
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringGlovesInsulated
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemLunchboxGenericFilledRandom
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutServiceBartenderArmorDuraVest
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutCommandHOPNeckMantle
+    selected: True
+  - customHeirloom: True
+    customColorTint: null
+    customDescription: null
+    customName: null
     loadoutName: LoadoutItemDrinkMREFlask
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#2F2F2FFF'
+    customDescription: null
+    customName: fingerless gloves
+    loadoutName: LoadoutHandsGlovesFingerlessWhite
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutServiceBartenderArgentiNonlethal
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerEquipmentSheetPlastic10
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutHeadOfPersonnelOuterArmoredCoat
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerEquipmentRCD
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -109,19 +220,61 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutItemLunchboxGenericFilledRandom
+    loadoutName: LoadoutEngineeringEyesMeson
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutCommandHOPJumpsuitTurtleneckBoatswain
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerEquipmentPowerDrill
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#DC4444FF'
+    customDescription: 'There is a small stitching in white: Наталья.'
+    customName: red mask
+    loadoutName: LoadoutMaskBandWhite
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutCommandHOPHatCap
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClothingUniformReotaSuit
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutStationEngineerEquipmentBoxInflatable
     selected: True
   name: Tara Mason
   flavorText: >-
-    A short human (5'0"), with faded red hair, their face almost entirely hidden by a bandana except for blue eyes. Partially visible appears to be the works of robotic limbs and tension support down the left side of her body.
+    A short human (5'1"), with faded red hair, their face almost entirely hidden by a red mask except for blue eyes. Partially visible appears to be the works of robotic limbs and tension support down the left side of her body.
 
 
-    There's a glint in her eyes, seems cold and distant.
+    (more will be seen and kept updated in examine)
   species: Human
-  customspeciename: ""
+  customspeciename: Human
   width: 0.82562107
-  preferenceUnavailable: SpawnAsOverflow
-  age: 44
+  preferenceUnavailable: StayInLobby
+  age: 39
   sex: Female
   gender: Female
   appearance:
@@ -149,6 +302,18 @@ profile:
       visible: True
       markingColor:
       - '#FFD9C6FF'
+    - markingId: ChestBackstabbed
+      visible: True
+      markingColor:
+      - '#FFD9C6FF'
+    - markingId: HumanNoseBlob
+      visible: True
+      markingColor:
+      - '#FFD9C6FF'
+    - markingId: FaceFullblush
+      visible: True
+      markingColor:
+      - '#B77CA7FF'
     skinColor: '#FFD9C6FF'
     eyeColor: '#2C59E0FF'
     facialHairColor: '#8E0008FF'
@@ -158,8 +323,7 @@ profile:
   clothing: Jumpsuit
   backpack: Backpack
   spawnPriority: None
-  _jobPriorities:
-    Passenger: High
+  _jobPriorities: {}
 version: 1
 forkId: floof-station-nova
 ...
