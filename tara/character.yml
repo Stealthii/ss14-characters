@@ -73,9 +73,9 @@ profile:
     loadoutName: LoadoutChiefEngineerEquipmentSheetPGlass10
     selected: True
   - customHeirloom: null
-    customColorTint: '#FFBF1CFF'
-    customDescription: one of LITH's spare jackets, lent to a friend.
-    customName: LITH's jacket
+    customColorTint: '#822662FF'
+    customDescription: a purple jacket, with 'TM' initialled on the collar label.
+    customName: cyberjacket
     loadoutName: LoadoutClothingOuterCyberJacketWhite
     selected: True
   - customHeirloom: null
