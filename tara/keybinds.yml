@@ -48,13 +48,13 @@ binds:
   mod1: Shift
   key: R
   type: Command
-  function: me spins her hand around.
+  function: me spins her left hand around.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: R
   type: Command
-  function: subtle spins her hand around, gesturing.
+  function: subtle spins her left hand around, gesturing.
 - mod2: Control
   mod1: Shift
   key: U
@@ -114,13 +114,13 @@ binds:
   mod1: Shift
   key: MouseRight
   type: Command
-  function: me flexes her hand.
+  function: me flexes her left hand.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: MouseRight
   type: Command
-  function: subtle holds out her hand.
+  function: subtle holds out her right hand.
 - mod2: Control
   mod1: Shift
   key: J
@@ -191,13 +191,13 @@ binds:
   mod1: Shift
   key: MouseLeft
   type: Command
-  function: me hands are shaking.
+  function: me hand is shaking.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: MouseLeft
   type: Command
-  function: subtle hands tremble.
+  function: subtle hand trembles.
 - mod2: Control
   mod1: Shift
   key: G
@@ -378,13 +378,13 @@ binds:
   mod1: Shift
   key: Num9
   type: Command
-  function: me fixes her bandana.
+  function: me fixes her mask.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Num9
   type: Command
-  function: subtle adjusts her bandana.
+  function: subtle adjusts her mask.
 - key: Shift
   function: Walk
 - key: NumpadNum8
