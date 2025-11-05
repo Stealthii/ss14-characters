@@ -22,139 +22,13 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentPowerDrill
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutCommandHOPHatCap
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerEquipmentSheetPGlass10
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemTrumpetInstrumentMusician
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemHandheldStationMap
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutServiceBartenderRifleBigRubber
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutClothingUniformJumpsuitNanotrasenRepresentative
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentSheetPlastic10
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentRCD
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutStationEngineerEquipmentBoxInflatable
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringChiefEngineerUniformSkirt
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#822662FF'
-    customDescription: a purple jacket, with 'TM' initialled on the collar label.
-    customName: cyberjacket
-    loadoutName: LoadoutClothingOuterCyberJacketWhite
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: Contains some Cygni etching on the side, as well as a few extra expansion ports on the back.
-    customName: ' ГИ Cygni PDA unit'
-    loadoutName: LoadoutChiefEngineerNTPDA
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringUniformJumpskirtSenior
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutTechnicalAssistantEquipmentBoxInflatable
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemWhipTeal
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringChiefEngineerNeckCloak
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#858585FF'
-    customDescription: null
-    customName: grey satchel
-    loadoutName: LoadoutBackpackSatchel
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutShoesBootsJackFake
+    loadoutName: LoadoutCommandHOPNeckMantle
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
     loadoutName: ClothingUniformNudityPermit
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringGlovesInsulated
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#2F2F2FFF'
-    customDescription: null
-    customName: fingerless gloves
-    loadoutName: LoadoutHandsGlovesFingerlessWhite
     selected: True
   - customHeirloom: null
     customColorTint: '#515151FF'
@@ -166,19 +40,31 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutChiefEngineerEquipmentSheetPlastic10
+    loadoutName: LoadoutTechnicalAssistantEquipmentBoxInflatable
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutCommandHOPNeckMantle
+    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutChiefEngineerEquipmentSheetRPGlass10
+    loadoutName: LoadoutSeniorEngineerEquipmentRCD
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#858585FF'
+    customDescription: null
+    customName: grey satchel
+    loadoutName: LoadoutBackpackSatchel
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutStationEngineerEquipmentBoxInflatable
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -190,19 +76,43 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutServiceBartenderArgentiNonlethal
+    loadoutName: LoadoutChiefEngineerEquipmentSheetPGlass10
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutHeadOfPersonnelOuterArmoredCoat
+    loadoutName: LoadoutChiefEngineerEquipmentSheetPlastic10
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutServiceBartenderArmorDuraVest
+    loadoutName: LoadoutShoesBootsJackFake
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutChiefEngineerEquipmentSheetRPGlass10
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: Contains some Cygni etching on the side, as well as a few extra expansion ports on the back.
+    customName: ' ГИ Cygni PDA unit'
+    loadoutName: LoadoutChiefEngineerNTPDA
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerEquipmentPowerDrill
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#822662FF'
+    customDescription: a purple jacket, with 'TM' initialled on the collar label.
+    customName: cyberjacket
+    loadoutName: LoadoutClothingOuterCyberJacketWhite
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -214,13 +124,109 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
+    loadoutName: LoadoutClothingUniformJumpsuitNanotrasenRepresentative
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutCommandHOPHatCap
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
     loadoutName: LoadoutCommandHOPJumpsuitTurtleneckBoatswain
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutServiceBartenderRifleBigRubber
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringChiefEngineerNeckCloak
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringGlovesCombat
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutServiceBartenderArmorDuraVest
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#2F2F2FFF'
+    customDescription: null
+    customName: fingerless gloves
+    loadoutName: LoadoutHandsGlovesFingerlessWhite
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutHeadOfPersonnelOuterArmoredCoat
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutServiceBartenderArgentiNonlethal
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemHandheldStationMap
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemTrumpetInstrumentMusician
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemWhipTeal
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerEquipmentSheetPlastic10
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemBoxFolderGrey
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemStickyNotesPink
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutMedkitFilled
     selected: True
   name: NAT-4134
   flavorText: A short IRC (5'1"), with a dimly lit screen, showing a red mask. Partially visible appears to be the works of modern Ward-Takahashi robotic chassis.
@@ -236,76 +242,73 @@ profile:
     - markingId: CyberLimbsMarkingWardtakahashiLArm
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#5A5658FF'
     - markingId: CyberLimbsMarkingWardtakahashiLHand
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#595557FF'
     - markingId: CyberLimbsMarkingWardtakahashiLLeg
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#4C494AFF'
     - markingId: CyberLimbsMarkingWardtakahashiLFoot
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#4C494AFF'
     - markingId: CyberLimbsMarkingWardtakahashiChest
       visible: True
       markingColor:
-      - '#5B2D41FF'
+      - '#5B2D42FF'
     - markingId: ScreenBreakout
       visible: True
       markingColor:
       - '#B01A00FF'
-    - markingId: ScreenBlank
-      visible: True
-      markingColor:
-      - '#404040FF'
     - markingId: FaceNeckWide
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#382E35FF'
     - markingId: CyberLimbsMarkingWardtakahashiHeadAlt1
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#544C4EFF'
     - markingId: EarsAntennaFuzzballv2
       visible: True
       markingColor:
+      - '#3D3B3BFF'
+      - '#565354FF'
       - '#404040FF'
       - '#404040FF'
-      - '#404040FF'
-      - '#404040FF'
-    - markingId: RodentiaCheeksRound
+    - markingId: RodentiaCheeksRoundCounter
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#444444FF'
+      - '#5B5B5BFF'
     - markingId: CyberLimbsMarkingWardtakahashiRArm
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#5A5658FF'
     - markingId: CyberLimbsMarkingWardtakahashiRHand
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#595657FF'
     - markingId: CyberLimbsMarkingWardtakahashiRLeg
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#4D494BFF'
     - markingId: CyberLimbsMarkingWardtakahashiRFoot
       visible: True
       markingColor:
-      - '#404040FF'
+      - '#4E4B4CFF'
     - markingId: TailPlugTail
       visible: True
       markingColor:
-      - '#3F363AFF'
-      - '#523B45FF'
-      - '#9B637BFF'
+      - '#3D363AFF'
+      - '#513A46FF'
+      - '#99627EFF'
       - '#404040FF'
       - '#404040FF'
       - '#404040FF'
-    skinColor: '#404040FF'
+    skinColor: '#4C4448FF'
     eyeColor: '#2C59E0FF'
     facialHairColor: '#8E0008FF'
     facialHair: FacialHairShaved
