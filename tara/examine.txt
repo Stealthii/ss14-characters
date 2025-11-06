@@ -13,6 +13,9 @@ Seems [color=orange]fidgety[/color], and looks a little [color=#EAD4CE]pale[/col
 [color=gray]There is a mischievous look in her eyes.[/color]
 Seems [color=gold]alert[/color], and [color=white]content[/color].
 
+Seems [color=gold]alert[/color], but [color=white]quiet[/color].
+
+
 ---
 
 Up close, a scent of [color=#967BB6]lavender[/color].
@@ -24,7 +27,8 @@ Up close, a scent of [color=#677251]v[/color][color=#6c7958]e[/color][color=#708
 
 Up close, a scent of [color=white]vodka[/color].
 
-Up close, a scent of [color=#967BB6]lavender[/color], and.. [color=#A7C2E5]ozone[/color]?
+Up close, a scent of [color=#677251]v[/color][color=#6c7958]e[/color][color=#70805f]t[/color][color=#758b66]i[/color][color=#7a8f6d]v[/color][color=#7e9674]e[/color][color=#839d7b]r[/color], and.. [color=#e5fbfb]o[/color][color=#f6fdff]z[/color][color=#ebedf0]o[/color][color=#cbe2f2]n[/color][color=#bbd6ec]e[/color]?
+[color=gray]You might notice the tag[/color] MAS-02 [color=gray]engraved on her maintenance panel.[/color]
 
 ---
 

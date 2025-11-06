@@ -21,7 +21,7 @@ binds:
   mod1: Alt
   key: W
   type: Command
-  function: me pretends to clap.
+  function: me whistles.
 - mod2: Control
   mod1: Shift
   key: T
@@ -296,7 +296,7 @@ binds:
   mod1: Alt
   key: I
   type: Command
-  function: subtle tilts her head back.
+  function: subtle rotates her head back.
 - mod2: Control
   mod1: Shift
   key: O
@@ -307,7 +307,7 @@ binds:
   mod1: Alt
   key: O
   type: Command
-  function: subtle flicks her hair behind.
+  function: subtle plays with her antannae.
 - mod2: Control
   mod1: Shift
   key: Num3
@@ -362,7 +362,7 @@ binds:
   mod1: Alt
   key: Num7
   type: Command
-  function: subtle scratches.
+  function: subtle clicks her actuators.
 - mod2: Control
   mod1: Shift
   key: Num8
