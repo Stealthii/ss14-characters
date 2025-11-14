@@ -16,6 +16,11 @@ Seems [color=gold]alert[/color], and [color=white]content[/color].
 Seems [color=gold]alert[/color], but [color=white]quiet[/color].
 
 
+[color=gray]She seems nervous.[/color]
+
+[color=gray]There is a distant look on her screen.[/color]
+Seems [color=gold]alert[/color], but [color=white]quiet[/color].
+
 ---
 
 Up close, a scent of [color=#967BB6]lavender[/color].
