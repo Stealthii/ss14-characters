@@ -49,10 +49,10 @@ profile:
     loadoutName: LoadoutChiefEngineerEquipmentSheetPlastic10
     selected: True
   - customHeirloom: null
-    customColorTint: '#822662FF'
-    customDescription: a purple jacket, with 'TM' initialled on the collar label.
-    customName: cyberjacket
-    loadoutName: LoadoutClothingOuterCyberJacketWhite
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClothingOuterCyberJacketPurple
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -223,9 +223,13 @@ profile:
     loadoutName: LoadoutServiceBartenderArmorDuraVest
     selected: True
   name: NAT-4134
-  flavorText: A short IRC (5'1"), with a dimly lit screen, showing a red mask. Partially visible appears to be the works of modern Ward-Takahashi robotic chassis.
+  flavorText: >-
+    A short IPC (5'1"), with a vibrant lit screen. Partially visible appears to be the works of modern Ward-Takahashi robotic chassis - a slender frame and lightweight build.
+
+
+    A charging tail flicks behind her, scorch marks on the contact points.
   species: IPC
-  customspeciename: Integrated Robotic Chassis
+  customspeciename: IPC
   width: 0.82562107
   preferenceUnavailable: StayInLobby
   age: 39
@@ -236,27 +240,27 @@ profile:
     - markingId: CyberLimbsMarkingWardtakahashiLArm
       visible: True
       markingColor:
-      - '#5A5658FF'
+      - '#585559FF'
     - markingId: CyberLimbsMarkingWardtakahashiLHand
       visible: True
       markingColor:
-      - '#595557FF'
+      - '#565356FF'
     - markingId: CyberLimbsMarkingWardtakahashiLLeg
       visible: True
       markingColor:
-      - '#4C494AFF'
+      - '#494749FF'
     - markingId: CyberLimbsMarkingWardtakahashiLFoot
       visible: True
       markingColor:
-      - '#4C494AFF'
+      - '#494749FF'
     - markingId: CyberLimbsMarkingWardtakahashiChest
       visible: True
       markingColor:
-      - '#5B2D42FF'
+      - '#3D4C66FF'
     - markingId: ScreenBreakout
       visible: True
       markingColor:
-      - '#B01A00FF'
+      - '#781188FF'
     - markingId: FaceNeckWide
       visible: True
       markingColor:
@@ -264,12 +268,12 @@ profile:
     - markingId: CyberLimbsMarkingWardtakahashiHeadAlt1
       visible: True
       markingColor:
-      - '#544C4EFF'
+      - '#504A51FF'
     - markingId: EarsAntennaFuzzballv2
       visible: True
       markingColor:
       - '#3D3B3BFF'
-      - '#565354FF'
+      - '#535154FF'
       - '#404040FF'
       - '#404040FF'
     - markingId: RodentiaCheeksRoundCounter
@@ -280,29 +284,29 @@ profile:
     - markingId: CyberLimbsMarkingWardtakahashiRArm
       visible: True
       markingColor:
-      - '#5A5658FF'
+      - '#585559FF'
     - markingId: CyberLimbsMarkingWardtakahashiRHand
       visible: True
       markingColor:
-      - '#595657FF'
+      - '#565456FF'
     - markingId: CyberLimbsMarkingWardtakahashiRLeg
       visible: True
       markingColor:
-      - '#4D494BFF'
+      - '#4B484CFF'
     - markingId: CyberLimbsMarkingWardtakahashiRFoot
       visible: True
       markingColor:
-      - '#4E4B4CFF'
+      - '#4C4A4CFF'
     - markingId: TailPlugTail
       visible: True
       markingColor:
-      - '#3D363AFF'
-      - '#513A46FF'
-      - '#99627EFF'
+      - '#39343AFF'
+      - '#4B384FFF'
+      - '#906399FF'
       - '#404040FF'
       - '#404040FF'
       - '#404040FF'
-    skinColor: '#4C4448FF'
+    skinColor: '#484249FF'
     eyeColor: '#2C59E0FF'
     facialHairColor: '#8E0008FF'
     facialHair: FacialHairShaved
@@ -312,7 +316,9 @@ profile:
   backpack: Backpack
   spawnPriority: None
   _jobPriorities:
-    ChiefEngineer: High
+    AtmosphericTechnician: High
+    SeniorEngineer: Medium
+    StationEngineer: Low
 version: 1
 forkId: floof-station-nova
 ...
