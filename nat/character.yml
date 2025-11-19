@@ -3,50 +3,26 @@ profile:
   height: 0.8800823
   _antagPreferences: []
   _traitPreferences:
-  - Paracusia
-  - MilkProducer
-  - SquirtProducer
-  - Bilingual
-  - CyberEyes
-  - LightAmplification
-  - Freespeak
-  - LightStep
-  - SignLanguage
-  - Uncloneable
-  - FastBatteryDrain
-  - FlareShielding
-  - AudioPlayer
-  - CyberEyesDiagnostic
+  - '{Prototype: Paracusia}'
+  - '{Prototype: MilkProducer}'
+  - '{Prototype: SquirtProducer}'
+  - '{Prototype: Bilingual}'
+  - '{Prototype: CyberEyes}'
+  - '{Prototype: LightAmplification}'
+  - '{Prototype: Freespeak}'
+  - '{Prototype: LightStep}'
+  - '{Prototype: SignLanguage}'
+  - '{Prototype: Uncloneable}'
+  - '{Prototype: FastBatteryDrain}'
+  - '{Prototype: FlareShielding}'
+  - '{Prototype: AudioPlayer}'
+  - '{Prototype: CyberEyesDiagnostic}'
   _loadoutPreferences:
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutItemTrumpetInstrumentMusician
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#515151FF'
-    customDescription: 'There is a small stitching in white: Наталья.'
-    customName: dark mask
-    loadoutName: LoadoutMaskBandWhite
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutClothingUniformJumpsuitNanotrasenRepresentative
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerEquipmentSheetPlastic10
+    loadoutName: LoadoutItemHandheldStationMap
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -58,85 +34,7 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutServiceBartenderRifleBigRubber
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: Contains some Cygni etching on the side, as well as a few extra expansion ports on the back.
-    customName: ' ГИ Cygni PDA unit'
-    loadoutName: LoadoutChiefEngineerNTPDA
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutServiceBartenderRifleBigRubberSpeedloader
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: ClothingUniformNudityPermit
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerEquipmentSheetRPGlass10
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemPapers
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemBoxFolderGrey
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentPowerDrill
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
     loadoutName: LoadoutItemWhipTeal
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutStationEngineerEquipmentBoxInflatable
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentRCD
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutHeadOfPersonnelOuterArmoredCoat
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutTechnicalAssistantEquipmentBoxInflatable
     selected: True
   - customHeirloom: null
     customColorTint: '#858585FF'
@@ -148,37 +46,13 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentSheetPlastic10
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringGlovesCombat
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringChiefEngineerNeckCloak
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
     loadoutName: LoadoutServiceBartenderArgentiNonlethal
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutMedkitFilled
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerBeltFilled
+    loadoutName: LoadoutChiefEngineerEquipmentSheetPlastic10
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -190,19 +64,61 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutCommandHOPJumpsuitTurtleneckBoatswain
+    loadoutName: LoadoutServiceBartenderRifleBigRubberSpeedloader
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutShoesBootsJackFake
+    loadoutName: LoadoutEngineeringChiefEngineerNeckCloak
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutCommandHOPHatCap
+    loadoutName: LoadoutSeniorEngineerEquipmentPowerDrill
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemTrumpetInstrumentMusician
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutMedkitFilled
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutChiefEngineerEquipmentSheetRPGlass10
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutHeadOfPersonnelOuterArmoredCoat
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: Contains some Cygni etching on the side, as well as a few extra expansion ports on the back.
+    customName: ' ГИ Cygni PDA unit'
+    loadoutName: LoadoutChiefEngineerNTPDA
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutServiceBartenderRifleBigRubber
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: ClothingUniformNudityPermit
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -214,13 +130,97 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutItemHandheldStationMap
+    loadoutName: LoadoutServiceBartenderArmorDuraVest
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutServiceBartenderArmorDuraVest
+    loadoutName: LoadoutStationEngineerEquipmentBoxInflatable
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemPapers
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClothingUniformJumpsuitNanotrasenRepresentative
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutTechnicalAssistantEquipmentBoxInflatable
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutCommandHOPHatCap
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemBoxFolderGrey
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerEquipmentRCD
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutChiefEngineerBeltFilled
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutShoesBootsJackFake
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerEquipmentSheetPlastic10
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#5E4065FF'
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutNeckNeckerchiefColorable
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutCommandHOPJumpsuitTurtleneckBoatswain
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringGlovesCombat
     selected: True
   name: NAT-4134
   flavorText: >-

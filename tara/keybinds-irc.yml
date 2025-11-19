@@ -4,13 +4,13 @@ binds:
   mod1: Shift
   key: Q
   type: Command
-  function: me 's screen flashes.
+  function: me blinks.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Q
   type: Command
-  function: subtle screen flickers.
+  function: subtle eyes flicker.
 - mod2: Control
   mod1: Shift
   key: W
@@ -32,29 +32,29 @@ binds:
   mod1: Alt
   key: T
   type: Command
-  function: me gives a little wave.
+  function: me wiggles their talons.
 - mod2: Control
   mod1: Shift
   key: H
   type: Command
-  function: me snaps her fingers.
+  function: me snaps their fingers.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: H
   type: Command
-  function: subtle touches her fingers together.
+  function: subtle touches their talons togettheir.
 - mod2: Control
   mod1: Shift
   key: R
   type: Command
-  function: me spins her left hand around.
+  function: me waves a hand dismissively.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: R
   type: Command
-  function: subtle spins her left hand around, gesturing.
+  function: subtle waves a hand, gesturing.
 - mod2: Control
   mod1: Shift
   key: U
@@ -103,29 +103,29 @@ binds:
   mod1: Shift
   key: P
   type: Command
-  function: me nods her head.
+  function: me nods their head.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: P
   type: Command
-  function: subtle nods a little.
+  function: subtle nods awkwardly.
 - mod2: Control
   mod1: Shift
   key: MouseRight
   type: Command
-  function: me flexes her left hand.
+  function: me flexes their left hand.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: MouseRight
   type: Command
-  function: subtle holds out her right hand.
+  function: subtle holds out their right hand.
 - mod2: Control
   mod1: Shift
   key: J
   type: Command
-  function: me twirls the glass around in her hand.
+  function: me twirls the glass around in their talons.
 - mod3: Control
   mod2: Shift
   mod1: Alt
@@ -147,24 +147,24 @@ binds:
   mod1: Shift
   key: S
   type: Command
-  function: me shakes her head.
+  function: me shakes their head.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: S
   type: Command
-  function: subtle shakes her head lightly.
+  function: subtle shakes their head lightly.
 - mod2: Control
   mod1: Shift
   key: C
   type: Command
-  function: me flips a finger.
+  function: me flips a talon.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: C
   type: Command
-  function: subtle flips a finger behind them.
+  function: subtle flips a talon behind them.
 - mod2: Control
   mod1: Shift
   key: V
@@ -191,13 +191,13 @@ binds:
   mod1: Shift
   key: MouseLeft
   type: Command
-  function: me taps her headset.
+  function: me taps their headset.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: MouseLeft
   type: Command
-  function: me jabs her tail, sparking.
+  function: me jabs their tail, sparking.
 - mod2: Control
   mod1: Shift
   key: G
@@ -219,7 +219,7 @@ binds:
   mod1: Alt
   key: A
   type: Command
-  function: me salutes dismissively.
+  function: me salutes earnestly.
 - mod2: Control
   mod1: Shift
   key: K
@@ -246,18 +246,18 @@ binds:
   mod1: Shift
   key: Z
   type: Command
-  function: me 's screen lights up.
+  function: me smiles.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Z
   type: Command
-  function: me 's screen brightens.
+  function: me 's eyes light up.
 - mod2: Control
   mod1: Shift
   key: X
   type: Command
-  function: me 's screen flashes a question mark.
+  function: me forms an eyebrow.
 - mod3: Control
   mod2: Shift
   mod1: Alt
@@ -290,35 +290,35 @@ binds:
   mod1: Shift
   key: I
   type: Command
-  function: me jolts her head.
+  function: me jolts their head.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: I
   type: Command
-  function: subtle rotates her head back.
+  function: subtle slides open their access panel.
 - mod2: Control
   mod1: Shift
   key: O
   type: Command
-  function: me rotates her shoulder.
+  function: me rotates their shoulder.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: O
   type: Command
-  function: subtle plays with her antennas.
+  function: subtle plays with their antenna.
 - mod2: Control
   mod1: Shift
   key: Num3
   type: Command
-  function: me dims her screen.
+  function: me 's eyes dim.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Num3
   type: Command
-  function: subtle dims her screen slightly.
+  function: subtle dims their eyes slightly.
 - mod2: Control
   mod1: Shift
   key: Num4
@@ -334,7 +334,7 @@ binds:
   mod1: Shift
   key: Num5
   type: Command
-  function: me flicks her tail.
+  function: me flicks their tail.
 - mod3: Control
   mod2: Shift
   mod1: Alt
@@ -356,18 +356,18 @@ binds:
   mod1: Shift
   key: Num7
   type: Command
-  function: me drums her fingers.
+  function: me drums their talons.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Num7
   type: Command
-  function: subtle clicks her actuators.
+  function: subtle clicks their actuators.
 - mod2: Control
   mod1: Shift
   key: Num8
   type: Command
-  function: me puts her hand on her screen.
+  function: me puts a hand on their chin.
 - mod3: Control
   mod2: Shift
   mod1: Alt
@@ -378,13 +378,13 @@ binds:
   mod1: Shift
   key: Num9
   type: Command
-  function: me fixes her mask.
+  function: me fixes their mask.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Num9
   type: Command
-  function: subtle adjusts her mask.
+  function: subtle adjusts their mask.
 - key: Shift
   function: Walk
 - key: NumpadNum8

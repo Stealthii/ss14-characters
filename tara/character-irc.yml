@@ -5,46 +5,40 @@ profile:
   - Traitor
   - TraitorSleeper
   _traitPreferences:
-  - Paracusia
-  - MilkProducer
-  - SignLanguage
-  - CumProducer
-  - SlowBatteryDrain
-  - Uncloneable
-  - AudioPlayer
-  - CyberEyes
-  - Talons
-  - Bilingual
-  - Ratvarian
-  - SquirtProducer
-  - LowPainTolerance
-  - FlareShielding
-  - LowPotential
-  - LightAmplification
+  - '{Prototype: Paracusia}'
+  - '{Prototype: MilkProducer}'
+  - '{Prototype: SignLanguage}'
+  - '{Prototype: CumProducer}'
+  - '{Prototype: SlowBatteryDrain}'
+  - '{Prototype: Uncloneable}'
+  - '{Prototype: AudioPlayer}'
+  - '{Prototype: CyberEyes}'
+  - '{Prototype: Talons}'
+  - '{Prototype: Bilingual}'
+  - '{Prototype: Ratvarian}'
+  - '{Prototype: SquirtProducer}'
+  - '{Prototype: LowPainTolerance}'
+  - '{Prototype: FlareShielding}'
+  - '{Prototype: LowPotential}'
+  - '{Prototype: LightAmplification}'
   _loadoutPreferences:
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemLighterCheap
+    selected: True
   - customHeirloom: False
     customColorTint: null
-    customDescription: It propells the bunny.
-    customName: Emergency Propulsion Device
-    loadoutName: LoadoutItemFireExtinguisher
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemRemoteSignaller
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
     loadoutName: LoadoutNeckUnathiMantle
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutShoesGeta
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMedkitFilled
     selected: True
   - customHeirloom: null
     customColorTint: null
@@ -58,29 +52,29 @@ profile:
     customName: null
     loadoutName: LoadoutItemHandheldStationMap
     selected: True
-  - customHeirloom: null
+  - customHeirloom: False
     customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemLighterCheap
+    customDescription: A small list of mechanical components and materials approved by NT as safe to board, in the convenient size of a sticker.
+    customName: NT MAT-PERM
+    loadoutName: ClothingUniformNudityPermit
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: It propells the bunny.
+    customName: Emergency Propulsion Device
+    loadoutName: LoadoutItemFireExtinguisher
     selected: True
   - customHeirloom: null
     customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutGolemancerPillCanisterSpaceDrugs
+    customDescription: A red-mesa painted crowbar with LITH scratched into the shaft.
+    customName: mesa-tone crowbar
+    loadoutName: LoadoutItemsEmergencyCrowbar
     selected: True
-  - customHeirloom: null
+  - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutOuterZhCorporateJacket
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemRemoteSignaller
+    loadoutName: LoadoutShoesGeta
     selected: True
   - customHeirloom: False
     customColorTint: null
@@ -90,15 +84,15 @@ profile:
     selected: True
   - customHeirloom: False
     customColorTint: null
-    customDescription: A small list of mechanical components and materials approved by NT as safe to board, in the convenient size of a sticker.
-    customName: NT MAT-PERM
-    loadoutName: ClothingUniformNudityPermit
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutMedkitFilled
     selected: True
   - customHeirloom: null
     customColorTint: null
-    customDescription: A red-mesa painted crowbar with LITH scratched into the shaft.
-    customName: mesa-tone crowbar
-    loadoutName: LoadoutItemsEmergencyCrowbar
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutGolemancerPillCanisterSpaceDrugs
     selected: True
   - customHeirloom: null
     customColorTint: '#AD169FFF'
@@ -112,9 +106,15 @@ profile:
     customName: null
     loadoutName: LoadoutGolemancerEquipmentCandles
     selected: True
-  name: LITH
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClothingOuterCyberJacketPurple
+    selected: True
+  name: TAMA
   flavorText: >-
-    The gentle hum of synthetic life eminates from their screen, a rather lithe yet oddly flexible IPC towers at a reasonable 7ft despite the spring-leaf esque legs they stride on.
+    Two pillars of icy blue light shine from the screen of a rather lithe yet flexible IRC, towering at 7ft on a pair of springleaf legs.
 
 
     Marred plating flanks their body with an oddly squishy amount of give, synthetic fibers woven into worn, slash, spatter and repair riddled segments that mimic an awfully curvacious humanoid form.
@@ -122,35 +122,35 @@ profile:
     Despite the spindly nature of some plating arrays it all seems to thrum with strength, covering intricate works below.. spare parts sure, but ones proven strong in the test of time.
 
 
-    Sizeable assets lay backed below any outerwear, yet even if they're devoid of outerwear they seem to be modestly concealed despite the curvacious nature of custom built plating, and soft squishy padding flanking their rear and chest, with an odd looking screened faceplate leading semi-smoothly into the soft, pliant synthlips... grinning with amusement at nigh every moment.
+    Sizeable assets lay backed below any outerwear, yet even if they're devoid of outerwear they seem to be modestly concealed despite the curvacious nature of custom built plating, and soft squishy padding flanking their rear and chest, with an odd looking screened faceplate leading semi-smoothly into soft synthlips.
   species: IPC
-  customspeciename: ""
+  customspeciename: IRC
   width: 1.173575
   preferenceUnavailable: SpawnAsOverflow
   age: 45
   sex: Unsexed
-  gender: Female
+  gender: Epicene
   appearance:
     markings:
     - markingId: CyberLimbsMarkingShellguardHead
       visible: True
       markingColor:
-      - '#F926C4FF'
-      - '#2D2B2DFF'
+      - '#963318FF'
+      - '#2B292BFF'
     - markingId: CyberLimbsMarkingWardtakahashiChest
       visible: True
       markingColor:
-      - '#A22B77FF'
+      - '#132147FF'
     - markingId: CyberLimbsMarkingShellguardRLeg
       visible: True
       markingColor:
-      - '#310820FF'
-      - '#310820FF'
+      - '#0F0830FF'
+      - '#081330FF'
     - markingId: CyberLimbsMarkingShellguardLLeg
       visible: True
       markingColor:
-      - '#310820FF'
-      - '#310820FF'
+      - '#0F0830FF'
+      - '#081330FF'
     - markingId: CyberLimbsMarkingMorpheusLFoot
       visible: True
       markingColor:
@@ -162,19 +162,20 @@ profile:
     - markingId: ScreenEyestall
       visible: True
       markingColor:
-      - '#E95A2EFF'
-    - markingId: RobotAntennaTowers
+      - '#6A9CE8FF'
+    - markingId: EarsAntennaSimple2v2
       visible: True
       markingColor:
-      - '#401227FF'
+      - '#3F2312FF'
+      - '#C6BDC3FF'
     - markingId: MobIPCLArmDefault
       visible: True
       markingColor:
-      - '#1F201AFF'
+      - '#191A1EFF'
     - markingId: MobIPCRArmDefault
       visible: True
       markingColor:
-      - '#1F201AFF'
+      - '#191A1EFF'
     - markingId: CyberLimbsMarkingMorpheusLHand
       visible: True
       markingColor:
@@ -186,8 +187,8 @@ profile:
     - markingId: TailSuccubus
       visible: True
       markingColor:
-      - '#1B0415FF'
-    skinColor: '#C7BFC4FF'
+      - '#030919FF'
+    skinColor: '#C6BDC3FF'
     eyeColor: '#000000FF'
     facialHairColor: '#4AB596FF'
     facialHair: FacialHairShaved
@@ -197,8 +198,7 @@ profile:
   backpack: Backpack
   spawnPriority: Cryosleep
   _jobPriorities:
-    SalvageSpecialist: Medium
-    Roboticist: High
+    AtmosphericTechnician: High
 version: 1
 forkId: floof-station-nova
 ...
