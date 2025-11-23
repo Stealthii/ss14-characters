@@ -367,7 +367,7 @@ binds:
   mod1: Shift
   key: Num8
   type: Command
-  function: me puts her hand on her screen.
+  function: me puts a hand on her screen.
 - mod3: Control
   mod2: Shift
   mod1: Alt
@@ -378,13 +378,13 @@ binds:
   mod1: Shift
   key: Num9
   type: Command
-  function: me fixes her mask.
+  function: me adjusts her glasses.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Num9
   type: Command
-  function: subtle adjusts her mask.
+  function: me takes off the glasses.
 - key: Shift
   function: Walk
 - key: NumpadNum8

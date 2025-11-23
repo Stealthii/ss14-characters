@@ -1,15 +1,12 @@
 profile:
   favoriteDrink: null
   height: 1.2223661
-  _antagPreferences:
-  - Traitor
-  - TraitorSleeper
+  _antagPreferences: []
   _traitPreferences:
   - '{Prototype: Paracusia}'
   - '{Prototype: MilkProducer}'
   - '{Prototype: SignLanguage}'
   - '{Prototype: CumProducer}'
-  - '{Prototype: SlowBatteryDrain}'
   - '{Prototype: Uncloneable}'
   - '{Prototype: AudioPlayer}'
   - '{Prototype: CyberEyes}'
@@ -21,7 +18,17 @@ profile:
   - '{Prototype: FlareShielding}'
   - '{Prototype: LowPotential}'
   - '{Prototype: LightAmplification}'
+  - '{Prototype: Heavyweight}'
+  - '{Prototype: TemperatureTolerance}'
+  - '{Prototype: Trilingual}'
+  - '{Prototype: Freespeak}'
   _loadoutPreferences:
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutGolemancerPillCanisterSpaceDrugs
+    selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
@@ -30,27 +37,9 @@ profile:
     selected: True
   - customHeirloom: False
     customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemRemoteSignaller
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutNeckUnathiMantle
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutGolemancerEquipmentCandlesSmall
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemHandheldStationMap
+    customDescription: It propells the bunny.
+    customName: Emergency Propulsion Device
+    loadoutName: LoadoutItemFireExtinguisher
     selected: True
   - customHeirloom: False
     customColorTint: null
@@ -60,27 +49,45 @@ profile:
     selected: True
   - customHeirloom: False
     customColorTint: null
-    customDescription: It propells the bunny.
-    customName: Emergency Propulsion Device
-    loadoutName: LoadoutItemFireExtinguisher
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutChiefEngineerBeltFilled
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemHandheldStationMap
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerEquipmentRCD
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
     selected: True
   - customHeirloom: null
     customColorTint: null
-    customDescription: A red-mesa painted crowbar with LITH scratched into the shaft.
-    customName: mesa-tone crowbar
-    loadoutName: LoadoutItemsEmergencyCrowbar
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutGolemancerEquipmentCandlesSmall
+    selected: True
+  - customHeirloom: False
+    customColorTint: '#802662FF'
+    customDescription: a purple jacket, with 'TM' initialled on the collar label.
+    customName: cyberjacket
+    loadoutName: LoadoutClothingOuterCyberJacketWhite
     selected: True
   - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutShoesGeta
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEmergencyMedipen
+    loadoutName: LoadoutStationEngineerEquipmentPowerDrill
     selected: True
   - customHeirloom: False
     customColorTint: null
@@ -92,25 +99,49 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutGolemancerPillCanisterSpaceDrugs
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#AD169FFF'
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMaskSterile
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
     loadoutName: LoadoutGolemancerEquipmentCandles
     selected: True
   - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutClothingOuterCyberJacketPurple
+    loadoutName: LoadoutShoesGeta
+    selected: True
+  - customHeirloom: False
+    customColorTint: '#750F6DFF'
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutMaskSterile
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: A red-mesa painted crowbar with LITH scratched into the shaft.
+    customName: mesa-tone crowbar
+    loadoutName: LoadoutItemsEmergencyCrowbar
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringGlovesCombat
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEmergencyMedipen
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemRemoteSignaller
     selected: True
   name: TAMA
   flavorText: >-
@@ -124,10 +155,10 @@ profile:
 
     Sizeable assets lay backed below any outerwear, yet even if they're devoid of outerwear they seem to be modestly concealed despite the curvacious nature of custom built plating, and soft squishy padding flanking their rear and chest, with an odd looking screened faceplate leading semi-smoothly into soft synthlips.
   species: IPC
-  customspeciename: IRC
+  customspeciename: Integrated Robotic Chassis (IRC)
   width: 1.173575
   preferenceUnavailable: SpawnAsOverflow
-  age: 45
+  age: 39
   sex: Unsexed
   gender: Epicene
   appearance:

@@ -43,7 +43,7 @@ binds:
   mod1: Alt
   key: H
   type: Command
-  function: subtle touches their talons togettheir.
+  function: subtle touches their talons together.
 - mod2: Control
   mod1: Shift
   key: R
@@ -378,13 +378,13 @@ binds:
   mod1: Shift
   key: Num9
   type: Command
-  function: me fixes their mask.
+  function: me folds their arms.
 - mod3: Control
   mod2: Shift
   mod1: Alt
   key: Num9
   type: Command
-  function: subtle adjusts their mask.
+  function: subtle gives a kick.
 - key: Shift
   function: Walk
 - key: NumpadNum8
