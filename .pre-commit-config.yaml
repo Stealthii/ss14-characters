@@ -4,7 +4,6 @@ exclude: |
   (?x)^(
     .*/(snapshots)/.*|
   )$
-
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
@@ -13,7 +12,20 @@ repos:
       - id: trailing-whitespace
         exclude: .*/examine.*\.txt
       - id: end-of-file-fixer
+  - repo: local
+    hooks:
+      - id: sort-yaml-arrays
+        name: Sort YAML Arrays
+        files: ^.+/character.*\.yml
+        language: golang
+        additional_dependencies: [github.com/mikefarah/yq/v4@latest]
+        entry: >
+          sh -c 'for f in "$@"; do
 
+            yq -i "(.. | select(tag == \"!!seq\")) |= sort" "$f";
+          done' --
+
+        types: [yaml]
   - repo: https://github.com/crate-ci/typos
     rev: v1.39.2
     hooks:

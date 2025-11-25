@@ -3,146 +3,146 @@ profile:
   height: 1.2223661
   _antagPreferences: []
   _traitPreferences:
-  - '{Prototype: Paracusia}'
-  - '{Prototype: MilkProducer}'
-  - '{Prototype: SignLanguage}'
-  - '{Prototype: CumProducer}'
-  - '{Prototype: Uncloneable}'
-  - '{Prototype: AudioPlayer}'
-  - '{Prototype: CyberEyes}'
-  - '{Prototype: Talons}'
-  - '{Prototype: Bilingual}'
-  - '{Prototype: Ratvarian}'
-  - '{Prototype: SquirtProducer}'
-  - '{Prototype: LowPainTolerance}'
-  - '{Prototype: FlareShielding}'
-  - '{Prototype: LowPotential}'
-  - '{Prototype: LightAmplification}'
-  - '{Prototype: Heavyweight}'
-  - '{Prototype: TemperatureTolerance}'
-  - '{Prototype: Trilingual}'
-  - '{Prototype: Freespeak}'
+    - '{Prototype: AudioPlayer}'
+    - '{Prototype: Bilingual}'
+    - '{Prototype: CumProducer}'
+    - '{Prototype: CyberEyes}'
+    - '{Prototype: FlareShielding}'
+    - '{Prototype: Freespeak}'
+    - '{Prototype: Heavyweight}'
+    - '{Prototype: LightAmplification}'
+    - '{Prototype: LowPainTolerance}'
+    - '{Prototype: LowPotential}'
+    - '{Prototype: MilkProducer}'
+    - '{Prototype: Paracusia}'
+    - '{Prototype: Ratvarian}'
+    - '{Prototype: SignLanguage}'
+    - '{Prototype: SquirtProducer}'
+    - '{Prototype: Talons}'
+    - '{Prototype: TemperatureTolerance}'
+    - '{Prototype: Trilingual}'
+    - '{Prototype: Uncloneable}'
   _loadoutPreferences:
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutGolemancerPillCanisterSpaceDrugs
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemLighterCheap
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: It propells the bunny.
-    customName: Emergency Propulsion Device
-    loadoutName: LoadoutItemFireExtinguisher
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: A small list of mechanical components and materials approved by NT as safe to board, in the convenient size of a sticker.
-    customName: NT MAT-PERM
-    loadoutName: ClothingUniformNudityPermit
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerBeltFilled
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemHandheldStationMap
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentRCD
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutGolemancerEquipmentCandlesSmall
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#802662FF'
-    customDescription: a purple jacket, with 'TM' initialled on the collar label.
-    customName: cyberjacket
-    loadoutName: LoadoutClothingOuterCyberJacketWhite
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutStationEngineerEquipmentPowerDrill
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMedkitFilled
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutGolemancerEquipmentCandles
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutShoesGeta
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#750F6DFF'
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMaskSterile
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: A red-mesa painted crowbar with LITH scratched into the shaft.
-    customName: mesa-tone crowbar
-    loadoutName: LoadoutItemsEmergencyCrowbar
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringGlovesCombat
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEmergencyMedipen
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemRemoteSignaller
-    selected: True
+    - customHeirloom: null
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutGolemancerPillCanisterSpaceDrugs
+      selected: True
+    - customHeirloom: null
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutItemLighterCheap
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: It propells the bunny.
+      customName: Emergency Propulsion Device
+      loadoutName: LoadoutItemFireExtinguisher
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: A small list of mechanical components and materials approved by NT as safe to board, in the convenient size of a sticker.
+      customName: NT MAT-PERM
+      loadoutName: ClothingUniformNudityPermit
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutChiefEngineerBeltFilled
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutItemHandheldStationMap
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutSeniorEngineerEquipmentRCD
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
+      selected: True
+    - customHeirloom: null
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutGolemancerEquipmentCandlesSmall
+      selected: True
+    - customHeirloom: False
+      customColorTint: '#802662FF'
+      customDescription: a purple jacket, with 'TM' initialled on the collar label.
+      customName: cyberjacket
+      loadoutName: LoadoutClothingOuterCyberJacketWhite
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutStationEngineerEquipmentPowerDrill
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutMedkitFilled
+      selected: True
+    - customHeirloom: null
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutGolemancerEquipmentCandles
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutShoesGeta
+      selected: True
+    - customHeirloom: False
+      customColorTint: '#750F6DFF'
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutMaskSterile
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
+      selected: True
+    - customHeirloom: null
+      customColorTint: null
+      customDescription: A red-mesa painted crowbar with LITH scratched into the shaft.
+      customName: mesa-tone crowbar
+      loadoutName: LoadoutItemsEmergencyCrowbar
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutEngineeringGlovesCombat
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutEmergencyMedipen
+      selected: True
+    - customHeirloom: False
+      customColorTint: null
+      customDescription: null
+      customName: null
+      loadoutName: LoadoutItemRemoteSignaller
+      selected: True
   name: TAMA
   flavorText: >-
     Two pillars of icy blue light shine from the screen of a rather lithe yet flexible IRC, towering at 7ft on a pair of springleaf legs.
@@ -163,62 +163,62 @@ profile:
   gender: Epicene
   appearance:
     markings:
-    - markingId: CyberLimbsMarkingShellguardHead
-      visible: True
-      markingColor:
-      - '#963318FF'
-      - '#2B292BFF'
-    - markingId: CyberLimbsMarkingWardtakahashiChest
-      visible: True
-      markingColor:
-      - '#132147FF'
-    - markingId: CyberLimbsMarkingShellguardRLeg
-      visible: True
-      markingColor:
-      - '#0F0830FF'
-      - '#081330FF'
-    - markingId: CyberLimbsMarkingShellguardLLeg
-      visible: True
-      markingColor:
-      - '#0F0830FF'
-      - '#081330FF'
-    - markingId: CyberLimbsMarkingMorpheusLFoot
-      visible: True
-      markingColor:
-      - '#FFFFFFFF'
-    - markingId: CyberLimbsMarkingMorpheusRFoot
-      visible: True
-      markingColor:
-      - '#FFFFFFFF'
-    - markingId: ScreenEyestall
-      visible: True
-      markingColor:
-      - '#6A9CE8FF'
-    - markingId: EarsAntennaSimple2v2
-      visible: True
-      markingColor:
-      - '#3F2312FF'
-      - '#C6BDC3FF'
-    - markingId: MobIPCLArmDefault
-      visible: True
-      markingColor:
-      - '#191A1EFF'
-    - markingId: MobIPCRArmDefault
-      visible: True
-      markingColor:
-      - '#191A1EFF'
-    - markingId: CyberLimbsMarkingMorpheusLHand
-      visible: True
-      markingColor:
-      - '#FFFFFFFF'
-    - markingId: CyberLimbsMarkingMorpheusRHand
-      visible: True
-      markingColor:
-      - '#FFFFFFFF'
-    - markingId: TailSuccubus
-      visible: True
-      markingColor:
-      - '#030919FF'
+      - markingId: CyberLimbsMarkingShellguardHead
+        visible: True
+        markingColor:
+          - '#2B292BFF'
+          - '#963318FF'
+      - markingId: CyberLimbsMarkingWardtakahashiChest
+        visible: True
+        markingColor:
+          - '#132147FF'
+      - markingId: CyberLimbsMarkingShellguardRLeg
+        visible: True
+        markingColor:
+          - '#081330FF'
+          - '#0F0830FF'
+      - markingId: CyberLimbsMarkingShellguardLLeg
+        visible: True
+        markingColor:
+          - '#081330FF'
+          - '#0F0830FF'
+      - markingId: CyberLimbsMarkingMorpheusLFoot
+        visible: True
+        markingColor:
+          - '#FFFFFFFF'
+      - markingId: CyberLimbsMarkingMorpheusRFoot
+        visible: True
+        markingColor:
+          - '#FFFFFFFF'
+      - markingId: ScreenEyestall
+        visible: True
+        markingColor:
+          - '#6A9CE8FF'
+      - markingId: EarsAntennaSimple2v2
+        visible: True
+        markingColor:
+          - '#3F2312FF'
+          - '#C6BDC3FF'
+      - markingId: MobIPCLArmDefault
+        visible: True
+        markingColor:
+          - '#191A1EFF'
+      - markingId: MobIPCRArmDefault
+        visible: True
+        markingColor:
+          - '#191A1EFF'
+      - markingId: CyberLimbsMarkingMorpheusLHand
+        visible: True
+        markingColor:
+          - '#FFFFFFFF'
+      - markingId: CyberLimbsMarkingMorpheusRHand
+        visible: True
+        markingColor:
+          - '#FFFFFFFF'
+      - markingId: TailSuccubus
+        visible: True
+        markingColor:
+          - '#030919FF'
     skinColor: '#C6BDC3FF'
     eyeColor: '#000000FF'
     facialHairColor: '#4AB596FF'
@@ -232,4 +232,3 @@ profile:
     AtmosphericTechnician: High
 version: 1
 forkId: floof-station-nova
-...
