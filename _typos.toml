@@ -1,0 +1,5 @@
+[default]
+extend-ignore-re = [
+    # Ignore the entire 'chars="..."' attribute to prevent correcting the value inside
+    'chars="[^"]+"'
+]
