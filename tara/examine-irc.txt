@@ -5,8 +5,7 @@ Seems [color=gold]alert[/color], but [color=white]quiet[/color].
 
 ---
 
-Up close, a scent of [color=#ffb9c4]ch[/color][color=#ffbdc8]e[/color][color=#ffc3ce]rr[/color][color=#ffcbd6]y[/color] [color=#ffcdd8]b[/color][color=#ffcfda]l[/color][color=#ffd7e2]os[/color][color=#ffdde8]s[/color][color=#ffe1ec]om[/color], and.. [color=#e5fbfb]o[/color][color=#f6fdff]z[/color][color=#ebedf0]o[/color][color=#cbe2f2]n[/color][color=#bbd6ec]e[/color]?
-[color=gray]An engraving is scorched away on their maintenance panel.[/color]
+Up close, a scent of [color=#677251]v[/color][color=#6c7958]e[/color][color=#70805f]t[/color][color=#758b66]i[/color][color=#7a8f6d]v[/color][color=#7e9674]e[/color][color=#839d7b]r[/color], and.. [color=#e5fbfb]o[/color][color=#f6fdff]z[/color][color=#ebedf0]o[/color][color=#cbe2f2]n[/color][color=#bbd6ec]e[/color]?
 [italic][color=#4d2b37]They are [scramble rate=2000 length=1 chars="ctu" /][scramble rate=2000 length=1 chars="ohn" /][scramble rate=2000 length=1 chars="nea" /][scramble rate=2000 length=1 chars="fmw" /][scramble rate=2000 length=1 chars="usa" /][scramble rate=2000 length=1 chars="ser" /][scramble rate=2000 length=1 chars="ele" /][scramble rate=2000 length=1 chars="dv." /][scramble rate=2000 length=1 chars=".e " /][scramble rate=2000 length=1 chars=" s " /][scramble rate=2000 length=1 chars=" . " /][/color][/italic]
 
 
@@ -14,6 +13,9 @@ Up close, a scent of [color=#ffb9c4]ch[/color][color=#ffbdc8]e[/color][color=#ff
 ---
 PROTOTYPING
 ---
+
+[color=gray]An engraving is scorched away on their maintenance panel.[/color]
+
 [italic][color=#4d2b37]They are 
 [scramble rate=2000 length=1 chars="ctu" /]
 [scramble rate=2000 length=1 chars="ohn" /]
