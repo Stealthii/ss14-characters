@@ -1,194 +1,6 @@
 profile:
-  favoriteDrink: IrishCream
-  height: 1.0806924
-  _antagPreferences: []
-  _traitPreferences:
-  - '{Prototype: Unborgable}'
-  - '{Prototype: CumProducer}'
-  - '{Prototype: SignLanguage}'
-  - '{Prototype: Freespeak}'
-  - '{Prototype: HeavyweightDrunk}'
-  - '{Prototype: Bilingual}'
-  - '{Prototype: CulinaryAdaptationTheobromine}'
-  - '{Prototype: NormalVision}'
-  - '{Prototype: CulinaryAdaptationAllicin}'
-  - '{Prototype: AddictionNicotine}'
-  - '{Prototype: WillToLive}'
-  - '{Prototype: Heavyweight}'
-  - '{Prototype: MartialArtist}'
-  _loadoutPreferences:
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutUniformJumpsuitJeansBrown
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#FFF0C4FF'
-    customDescription: A faded looking satchel, with a tag attached, Tidus Herboren.
-    customName: Tidus' satchel
-    loadoutName: LoadoutBackpackSatchel
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemEnvelopes
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringNeckNeckerchief
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringGlovesInsulated
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringEyesMeson
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemCigsRed
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutNeckHeadphones
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemDrinkMREFlask
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemHandheldStationMap
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: A pretty uninspiring canine dildo. Seems smaller than the real thing.
-    customName: Tidus replica dildo
-    loadoutName: LoadoutItemCanineDildoRed
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutShoesBootsJackFake
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemBoxFolderGrey
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMedkitFilled
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutHeadLily
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemFlute
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#BEE8E3FF'
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEyesGlasses
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#180601FF'
-    customDescription: The fuck are those..
-    customName: shoes?
-    loadoutName: LoadoutShoesMiscWhite
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringUniformSuit
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#6A664DFF'
-    customDescription: A black lighter with a gold trim.
-    customName: Tidus' lighter
-    loadoutName: LoadoutItemLighterFlippo
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutStationEngineerUniformsSuit
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringClothingUniformJumpsuitAtmosCasual
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#FFEB00FF'
-    customDescription: null
-    customName: atmos cyberjacket
-    loadoutName: LoadoutClothingOuterCyberJacketWhite
-    selected: True
-  name: Tidus Herboren
-  flavorText: >-
-    Standing at 6'3" (190cm), a confident look on his face, his uniform gripping tight to his upper body showing signs of recent bulk. 
-
-
-    Art url: tidus.art
-
-
-    Unkempt, straw-blonde hair, a few hidden greys, fading to a chestnut color at the back. Thick, but combed dark eyebrows. Bright green kind eyes, hidden slightly by his glasses. A small tuft of fur sticks out under his chin.
-
-
-    Well toned upper body with a fluffy white chest crest. Extremely floofy tail, leading to a light tip.
-
-
-    Carries himself a little goofy, and seems easily distracted.
-  species: Vulpkanin
-  customspeciename: ""
-  width: 1.043539
   preferenceUnavailable: SpawnAsOverflow
-  age: 35
-  sex: Male
-  gender: Male
+  spawnPriority: Cryosleep
   appearance:
     markings:
     - markingId: ChestCutHere
@@ -266,11 +78,200 @@ profile:
     facialHair: VulpFacialHairKita
     hairColor: '#E4D4A2FF'
     hair: HumanHairCia
-  clothing: Jumpsuit
-  backpack: Backpack
-  spawnPriority: Cryosleep
+  gender: Male
+  customspeciename: ""
+  sex: Male
+  age: 35
+  species: Vulpkanin
+  flavorText: >-
+    Standing at 6'3" (190cm), a confident look on his face, his uniform gripping tight to his upper body showing signs of recent bulk. 
+
+
+    Art url: tidus.art
+
+
+    Unkempt, straw-blonde hair, a few hidden greys, fading to a chestnut color at the back. Thick, but combed dark eyebrows. Bright green kind eyes, hidden slightly by his glasses. A small tuft of fur sticks out under his chin.
+
+
+    Well toned upper body with a fluffy white chest crest. Extremely floofy tail, leading to a light tip.
+
+
+    Carries himself a little goofy, and seems easily distracted.
+  name: Tidus Herboren
+  cosmaticDriftCharacterRecords:
+    employmentEntries: []
+    securityEntries: []
+    medicalEntries: []
+    postmortemInstructions: Return home
+    drugAllergies: None
+    allergies: None
+    identifyingFeatures: ""
+    hasWorkAuthorization: True
+    emergencyContactName: ""
+    weight: 70
+    height: 170
+  cosmaticDriftCharacterHeight: 1.08
+  _loadouts:
+    JobSeniorEngineer:
+      selectedLoadouts:
+        GroupSpeciesBreathTool: []
+        StationEngineerJobTrinkets: []
+        Smokeables:
+        - prototype: CigPackRed
+        - prototype: FlippoEngravedLighter
+        Trinkets:
+        - prototype: ClothingNeckPansexualPin
+        SurvivalExtended:
+        - prototype: EmergencyOxygenExtended
+        StationEngineerID:
+        - prototype: SeniorEngineerPDA
+        StationEngineerShoes:
+        - prototype: ClothingShoesBootsJack
+        StationEngineerOuterClothing:
+        - prototype: OuterDenimJacket
+        StationEngineerBackpack:
+        - prototype: StationEngineerDuffel
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtilityAdvancedToolsAtmos
+        StationEngineerGloves:
+        - prototype: CombatGloves
+        SeniorEngineerJumpsuit:
+        - prototype: SeniorEngineerJumpsuit
+        StationEngineerNeck:
+        - prototype: NeckNeckerchiefEngineering
+        StationEngineerHead:
+        - prototype: HeadHatHairflower
+        GroupTankHarness: []
+      role: JobSeniorEngineer
+    JobChiefEngineer:
+      selectedLoadouts:
+        Smokeables:
+        - prototype: CigPackRed
+        - prototype: FlippoEngravedLighter
+        Trinkets:
+        - prototype: ClothingNeckPansexualPin
+        GroupSpeciesBreathTool: []
+        ChiefEngineerJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyOxygenExtended
+        ChiefEngineerShoes:
+        - prototype: ChiefEngineerWinterBoots
+        ChiefEngineerGloves:
+        - prototype: insulatedgloves
+        ChiefEngineerOuterClothing:
+        - prototype: OuterDenimJacket
+        ChiefEngineerNeck:
+        - prototype: ChiefEngineerMantle
+        StationEngineerBackpack:
+        - prototype: StationEngineerBackpack
+        ChiefEngineerJumpsuit:
+        - prototype: ChiefEngineerJumpsuit
+        ChiefEngineerHead:
+        - prototype: HeadHatHairflower
+        GroupTankHarness: []
+      role: JobChiefEngineer
+    JobAtmosphericTechnician:
+      selectedLoadouts:
+        Smokeables:
+        - prototype: CigPackRed
+        - prototype: FlippoEngravedLighter
+        Trinkets:
+        - prototype: ClothingNeckPansexualPin
+        GroupSpeciesBreathTool: []
+        AtmosphericTechnicianJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyOxygenExtended
+        AtmosphericTechnicianShoes:
+        - prototype: WorkBoots
+        AtmosPDADelta:
+        - prototype: AtmosPDA
+        AtmosphericTechnicianOuterClothing:
+        - prototype: OuterDenimJacket
+        AtmosphericTechnicianBackpack:
+        - prototype: AtmosphericTechnicianDuffel
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtilityAdvancedToolsAtmos
+        StationEngineerGloves:
+        - prototype: InsulatedGloves
+        AtmosphericTechnicianJumpsuit:
+        - prototype: AtmosphericTechnicianJumpsuitCasual
+        GroupTankHarness: []
+        AtmosphericTechnicianNeck:
+        - prototype: NeckNeckerchiefEngineering
+        AtmosphericTechnicianHead:
+        - prototype: HeadHatHairflower
+      role: JobAtmosphericTechnician
+    JobStationEngineer:
+      selectedLoadouts:
+        Smokeables:
+        - prototype: CigPackRed
+        - prototype: FlippoEngravedLighter
+        Trinkets:
+        - prototype: ClothingNeckPansexualPin
+        GroupSpeciesBreathTool: []
+        StationEngineerJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyOxygenExtended
+        StationEngineerID:
+        - prototype: SeniorEngineerPDA
+        StationEngineerShoes:
+        - prototype: ClothingShoesBootsJack
+        StationEngineerOuterClothing:
+        - prototype: StationEngineerOuterVest
+        StationEngineerBackpack:
+        - prototype: StationEngineerDuffel
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtilityAdvancedToolsAtmos
+        StationEngineerGloves:
+        - prototype: CombatGloves
+        StationEngineerJumpsuit:
+        - prototype: StationEngineerHazardsuit
+        StationEngineerNeck:
+        - prototype: NeckNeckerchiefEngineering
+        StationEngineerHead:
+        - prototype: HeadHatHairflower
+        GroupTankHarness: []
+      role: JobStationEngineer
+    JobPassenger:
+      selectedLoadouts:
+        Smokeables:
+        - prototype: CigPackRed
+        - prototype: FlippoEngravedLighter
+        Trinkets:
+        - prototype: ClothingNeckPansexualPin
+        GroupSpeciesBreathTool: []
+        PassengerJobTrinkets: []
+        Survival:
+        - prototype: EmergencyOxygen
+        Glasses:
+        - prototype: Glasses
+        PassengerShoes:
+        - prototype: BlackShoes
+        PassengerPDADelta:
+        - prototype: OffDutyCrewPDA
+        PassengerOuterClothing:
+        - prototype: OuterDenimJacket
+        PassengerGloves: []
+        PassengerFace: []
+        PassengerNeck: []
+        CommonBackpack:
+        - prototype: CommonDuffel
+        PassengerJumpsuit:
+        - prototype: ClothingUniformJumpsuitTshirtJeansPeach
+        AssistantHead:
+        - prototype: HeadHatHairflower
+        GroupTankHarness: []
+        Scarfs: []
+      role: JobPassenger
+  _traitPreferences:
+  - Unborgable
+  - CumProducer
+  - SignLanguage
+  - Freespeak
+  - Heavyweight
+  _antagPreferences: []
   _jobPriorities:
     AtmosphericTechnician: High
 version: 1
-forkId: floof-station-nova
+forkId: custom
 ...

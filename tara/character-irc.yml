@@ -1,166 +1,6 @@
 profile:
-  favoriteDrink: null
-  height: 1.2223661
-  _antagPreferences: []
-  _traitPreferences:
-  - '{Prototype: Paracusia}'
-  - '{Prototype: MilkProducer}'
-  - '{Prototype: SignLanguage}'
-  - '{Prototype: CumProducer}'
-  - '{Prototype: Uncloneable}'
-  - '{Prototype: AudioPlayer}'
-  - '{Prototype: CyberEyes}'
-  - '{Prototype: Talons}'
-  - '{Prototype: Bilingual}'
-  - '{Prototype: Ratvarian}'
-  - '{Prototype: SquirtProducer}'
-  - '{Prototype: LowPainTolerance}'
-  - '{Prototype: FlareShielding}'
-  - '{Prototype: LowPotential}'
-  - '{Prototype: LightAmplification}'
-  - '{Prototype: Heavyweight}'
-  - '{Prototype: TemperatureTolerance}'
-  - '{Prototype: Trilingual}'
-  - '{Prototype: Freespeak}'
-  _loadoutPreferences:
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutGolemancerPillCanisterSpaceDrugs
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemLighterCheap
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: It propells the bunny.
-    customName: Emergency Propulsion Device
-    loadoutName: LoadoutItemFireExtinguisher
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: A small list of mechanical components and materials approved by NT as safe to board, in the convenient size of a sticker.
-    customName: NT MAT-PERM
-    loadoutName: ClothingUniformNudityPermit
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerBeltFilled
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemHandheldStationMap
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentRCD
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutGolemancerEquipmentCandlesSmall
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#802662FF'
-    customDescription: a purple jacket, with 'TM' initialled on the collar label.
-    customName: cyberjacket
-    loadoutName: LoadoutClothingOuterCyberJacketWhite
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutStationEngineerEquipmentPowerDrill
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMedkitFilled
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutGolemancerEquipmentCandles
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutShoesGeta
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#750F6DFF'
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMaskSterile
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: A red-mesa painted crowbar with LITH scratched into the shaft.
-    customName: mesa-tone crowbar
-    loadoutName: LoadoutItemsEmergencyCrowbar
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringGlovesCombat
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEmergencyMedipen
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemRemoteSignaller
-    selected: True
-  name: TAMA
-  flavorText: >-
-    Two pillars of icy blue light shine from the screen of a rather lithe yet flexible IRC, towering at 7ft on a pair of springleaf legs.
-
-
-    Marred plating flanks their body with an oddly squishy amount of give, synthetic fibers woven into worn, slash, spatter and repair riddled segments that mimic an awfully curvacious humanoid form.
-
-    Despite the spindly nature of some plating arrays it all seems to thrum with strength, covering intricate works below.. spare parts sure, but ones proven strong in the test of time.
-
-
-    Sizeable assets lay backed below any outerwear, yet even if they're devoid of outerwear they seem to be modestly concealed despite the curvacious nature of custom built plating, and soft squishy padding flanking their rear and chest, with an odd looking screened faceplate leading semi-smoothly into soft synthlips.
-  species: IPC
-  customspeciename: Integrated Robotic Chassis (IRC)
-  width: 1.173575
   preferenceUnavailable: SpawnAsOverflow
-  age: 40
-  sex: Unsexed
-  gender: Epicene
+  spawnPriority: Cryosleep
   appearance:
     markings:
     - markingId: CyberLimbsMarkingShellguardHead
@@ -225,11 +65,169 @@ profile:
     facialHair: FacialHairShaved
     hairColor: '#4AB596FF'
     hair: HairBald
-  clothing: Jumpsuit
-  backpack: Backpack
-  spawnPriority: Cryosleep
+  gender: Epicene
+  customspeciename: Integrated Robotic Chassis (IRC)
+  sex: Unsexed
+  age: 40
+  species: IPC
+  flavorText: >-
+    Two pillars of icy blue light shine from the screen of a rather lithe yet flexible IRC, towering at 7ft on a pair of springleaf legs.
+
+
+    Marred plating flanks their body with an oddly squishy amount of give, synthetic fibers woven into worn, slash, spatter and repair riddled segments that mimic an awfully curvacious humanoid form.
+
+    Despite the spindly nature of some plating arrays it all seems to thrum with strength, covering intricate works below.. spare parts sure, but ones proven strong in the test of time.
+
+
+    Sizeable assets lay backed below any outerwear, yet even if they're devoid of outerwear they seem to be modestly concealed despite the curvacious nature of custom built plating, and soft squishy padding flanking their rear and chest, with an odd looking screened faceplate leading semi-smoothly into soft synthlips.
+  name: TAMA
+  cosmaticDriftCharacterRecords:
+    employmentEntries: []
+    securityEntries: []
+    medicalEntries: []
+    postmortemInstructions: Return home
+    drugAllergies: None
+    allergies: None
+    identifyingFeatures: ""
+    hasWorkAuthorization: True
+    emergencyContactName: ""
+    weight: 70
+    height: 170
+  cosmaticDriftCharacterHeight: 1.22
+  _loadouts:
+    JobChiefEngineer:
+      selectedLoadouts:
+        Smokeables: []
+        Trinkets: []
+        GroupSpeciesBreathTool: []
+        ChiefEngineerJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyIPCBox
+        ChiefEngineerShoes:
+        - prototype: ClothingClothWrap
+        ChiefEngineerGloves: []
+        ChiefEngineerOuterClothing: []
+        ChiefEngineerNeck: []
+        StationEngineerBackpack:
+        - prototype: StationEngineerBackpack
+        ChiefEngineerJumpsuit:
+        - prototype: UniformNudityPermit
+        ChiefEngineerHead: []
+        GroupTankHarness: []
+      role: JobChiefEngineer
+    JobAtmosphericTechnician:
+      selectedLoadouts:
+        Smokeables: []
+        Trinkets: []
+        GroupSpeciesBreathTool: []
+        AtmosphericTechnicianJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyIPCBox
+        AtmosphericTechnicianShoes:
+        - prototype: ClothingClothWrap
+        AtmosPDADelta:
+        - prototype: AtmosPDA
+        AtmosphericTechnicianOuterClothing: []
+        AtmosphericTechnicianBackpack:
+        - prototype: AtmosphericTechnicianBackpack
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtility
+        StationEngineerGloves:
+        - prototype: InsulatedGloves
+        AtmosphericTechnicianJumpsuit:
+        - prototype: UniformNudityPermit
+        GroupTankHarness: []
+        AtmosphericTechnicianNeck: []
+        AtmosphericTechnicianHead: []
+      role: JobAtmosphericTechnician
+    JobSeniorEngineer:
+      selectedLoadouts:
+        GroupSpeciesBreathTool: []
+        StationEngineerJobTrinkets: []
+        Smokeables: []
+        Trinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyIPCBox
+        StationEngineerID:
+        - prototype: StationEngineerPDA
+        StationEngineerShoes:
+        - prototype: ClothingClothWrap
+        StationEngineerOuterClothing: []
+        StationEngineerBackpack:
+        - prototype: StationEngineerBackpack
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtility
+        StationEngineerGloves:
+        - prototype: InsulatedGloves
+        SeniorEngineerJumpsuit:
+        - prototype: UniformNudityPermit
+        StationEngineerNeck: []
+        StationEngineerHead: []
+        GroupTankHarness: []
+      role: JobSeniorEngineer
+    JobStationEngineer:
+      selectedLoadouts:
+        Smokeables: []
+        Trinkets: []
+        GroupSpeciesBreathTool: []
+        StationEngineerJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyIPCBox
+        StationEngineerID:
+        - prototype: StationEngineerPDA
+        StationEngineerShoes:
+        - prototype: ClothingClothWrap
+        StationEngineerOuterClothing: []
+        StationEngineerBackpack:
+        - prototype: StationEngineerBackpack
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtility
+        StationEngineerGloves:
+        - prototype: InsulatedGloves
+        StationEngineerJumpsuit:
+        - prototype: UniformNudityPermit
+        StationEngineerNeck: []
+        StationEngineerHead: []
+        GroupTankHarness: []
+      role: JobStationEngineer
+    JobPassenger:
+      selectedLoadouts:
+        Smokeables: []
+        Trinkets: []
+        GroupSpeciesBreathTool: []
+        PassengerJobTrinkets: []
+        Survival:
+        - prototype: EmergencyIPCBox
+        Glasses: []
+        PassengerShoes:
+        - prototype: BlackShoes
+        PassengerPDADelta:
+        - prototype: OffDutyCrewPDA
+        PassengerOuterClothing: []
+        PassengerGloves: []
+        PassengerFace: []
+        PassengerNeck: []
+        CommonBackpack:
+        - prototype: CommonBackpack
+        PassengerJumpsuit:
+        - prototype: UniformNudityPermit
+        AssistantHead: []
+        GroupTankHarness: []
+        Scarfs: []
+      role: JobPassenger
+  _traitPreferences:
+  - Paracusia
+  - MilkProducer
+  - SignLanguage
+  - CumProducer
+  - Uncloneable
+  - Ratvarian
+  - SquirtProducer
+  - Heavyweight
+  - Freespeak
+  _antagPreferences: []
   _jobPriorities:
     AtmosphericTechnician: High
 version: 1
-forkId: floof-station-nova
+forkId: custom
 ...

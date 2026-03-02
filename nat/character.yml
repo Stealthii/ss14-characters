@@ -1,246 +1,6 @@
 profile:
-  favoriteDrink: VodkaTonic
-  height: 0.8800823
-  _antagPreferences: []
-  _traitPreferences:
-  - '{Prototype: Paracusia}'
-  - '{Prototype: MilkProducer}'
-  - '{Prototype: SquirtProducer}'
-  - '{Prototype: Bilingual}'
-  - '{Prototype: CyberEyes}'
-  - '{Prototype: LightAmplification}'
-  - '{Prototype: Freespeak}'
-  - '{Prototype: LightStep}'
-  - '{Prototype: SignLanguage}'
-  - '{Prototype: Uncloneable}'
-  - '{Prototype: FastBatteryDrain}'
-  - '{Prototype: FlareShielding}'
-  - '{Prototype: AudioPlayer}'
-  - '{Prototype: CyberEyesDiagnostic}'
-  _loadoutPreferences:
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentRCD
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutStationEngineerEquipmentBoxInflatable
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerEquipmentSheetRPGlass10
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutServiceBartenderRifleBigRubber
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemTrumpetInstrumentMusician
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutTechnicalAssistantEquipmentBoxInflatable
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutCommandHOPHatCap
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutShoesBootsJackFake
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutCommandHOPJumpsuitTurtleneckBoatswain
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerBeltFilled
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemWhipTeal
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemBoxFolderGrey
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: Contains some Cygni etching on the side, as well as a few extra expansion ports on the back.
-    customName: ' ГИ Cygni PDA unit'
-    loadoutName: LoadoutChiefEngineerNTPDA
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutHeadOfPersonnelOuterArmoredCoat
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#858585FF'
-    customDescription: null
-    customName: grey satchel
-    loadoutName: LoadoutBackpackSatchel
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentPowerDrill
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutServiceBartenderRifleBigRubberSpeedloader
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutClothingOuterCyberJacketPurple
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutServiceBartenderArmorDuraVest
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMedkitFilled
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutCommandHOPNeckMantle
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringGlovesCombat
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemPapers
-    selected: True
-  - customHeirloom: False
-    customColorTint: null
-    customDescription: A small certificate utilised only to recognise the NAT-4134 unit.
-    customName: Ward Chassis Certificate
-    loadoutName: ClothingUniformNudityPermit
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#5E4065FF'
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutNeckNeckerchiefColorable
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerEquipmentSheetPlastic10
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutClothingUniformJumpsuitNanotrasenRepresentative
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutServiceBartenderArgentiNonlethal
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerEquipmentSheetPlastic10
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutChiefEngineerEquipmentSheetPGlass10
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemHandheldStationMap
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringChiefEngineerNeckCloak
-    selected: True
-  - customHeirloom: False
-    customColorTint: '#7B97D1FF'
-    customDescription: These glasses do not appear to be prescription, but merely for show.
-    customName: glasses
-    loadoutName: LoadoutEyesGlasses
-    selected: True
-  name: NAT-4134
-  flavorText: >-
-    A short IPC (5'1"), with a vibrant lit screen. Partially visible appears to be the works of modern Ward-Takahashi robotic chassis - a slender frame and lightweight build.
-
-
-    A charging tail flicks behind her, scorch marks on the contact points.
-  species: IPC
-  customspeciename: IPC
-  width: 0.82562107
   preferenceUnavailable: StayInLobby
-  age: 40
-  sex: Unsexed
-  gender: Female
+  spawnPriority: None
   appearance:
     markings:
     - markingId: CyberLimbsMarkingWardtakahashiLArm
@@ -251,6 +11,14 @@ profile:
       visible: True
       markingColor:
       - '#565356FF'
+    - markingId: CyberLimbsMarkingWardtakahashiRArm
+      visible: True
+      markingColor:
+      - '#585559FF'
+    - markingId: CyberLimbsMarkingWardtakahashiRHand
+      visible: True
+      markingColor:
+      - '#565456FF'
     - markingId: CyberLimbsMarkingWardtakahashiLLeg
       visible: True
       markingColor:
@@ -259,6 +27,14 @@ profile:
       visible: True
       markingColor:
       - '#494749FF'
+    - markingId: CyberLimbsMarkingWardtakahashiRLeg
+      visible: True
+      markingColor:
+      - '#4B484CFF'
+    - markingId: CyberLimbsMarkingWardtakahashiRFoot
+      visible: True
+      markingColor:
+      - '#4C4A4CFF'
     - markingId: CyberLimbsMarkingWardtakahashiChest
       visible: True
       markingColor:
@@ -287,22 +63,6 @@ profile:
       markingColor:
       - '#444444FF'
       - '#5B5B5BFF'
-    - markingId: CyberLimbsMarkingWardtakahashiRArm
-      visible: True
-      markingColor:
-      - '#585559FF'
-    - markingId: CyberLimbsMarkingWardtakahashiRHand
-      visible: True
-      markingColor:
-      - '#565456FF'
-    - markingId: CyberLimbsMarkingWardtakahashiRLeg
-      visible: True
-      markingColor:
-      - '#4B484CFF'
-    - markingId: CyberLimbsMarkingWardtakahashiRFoot
-      visible: True
-      markingColor:
-      - '#4C4A4CFF'
     - markingId: TailPlugTail
       visible: True
       markingColor:
@@ -316,15 +76,165 @@ profile:
     eyeColor: '#2C59E0FF'
     facialHairColor: '#8E0008FF'
     facialHair: FacialHairShaved
-    hairColor: '#B7411AFF'
+    hairColor: '#665967FF'
     hair: HumanHairShortovereye
-  clothing: Jumpsuit
-  backpack: Backpack
-  spawnPriority: None
+  gender: Female
+  customspeciename: IPC
+  sex: Unsexed
+  age: 40
+  species: IPC
+  flavorText: >-
+    A short IPC (5'1"), with a vibrant lit screen. Partially visible appears to be the works of modern Ward-Takahashi robotic chassis - a slender frame and lightweight build.
+
+
+    A charging tail flicks behind her, scorch marks on the contact points.
+  name: NAT-4134
+  cosmaticDriftCharacterRecords:
+    employmentEntries: []
+    securityEntries: []
+    medicalEntries: []
+    postmortemInstructions: Return home
+    drugAllergies: None
+    allergies: None
+    identifyingFeatures: ""
+    hasWorkAuthorization: True
+    emergencyContactName: ""
+    weight: 70
+    height: 170
+  cosmaticDriftCharacterHeight: 0.88
+  _loadouts:
+    JobChiefEngineer:
+      selectedLoadouts:
+        Smokeables: []
+        Trinkets: []
+        GroupSpeciesBreathTool: []
+        ChiefEngineerJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyIPCBox
+        ChiefEngineerShoes:
+        - prototype: ClothingClothWrap
+        ChiefEngineerGloves: []
+        ChiefEngineerOuterClothing: []
+        ChiefEngineerNeck: []
+        StationEngineerBackpack:
+        - prototype: StationEngineerBackpack
+        ChiefEngineerJumpsuit:
+        - prototype: UniformNudityPermit
+        ChiefEngineerHead: []
+        GroupTankHarness: []
+      role: JobChiefEngineer
+    JobAtmosphericTechnician:
+      selectedLoadouts:
+        Smokeables: []
+        Trinkets: []
+        GroupSpeciesBreathTool: []
+        AtmosphericTechnicianJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyIPCBox
+        AtmosphericTechnicianShoes:
+        - prototype: ClothingClothWrap
+        AtmosPDADelta:
+        - prototype: AtmosPDA
+        AtmosphericTechnicianOuterClothing: []
+        AtmosphericTechnicianBackpack:
+        - prototype: AtmosphericTechnicianBackpack
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtility
+        StationEngineerGloves:
+        - prototype: CombatGloves
+        AtmosphericTechnicianJumpsuit:
+        - prototype: UniformNudityPermit
+        GroupTankHarness: []
+        AtmosphericTechnicianNeck: []
+        AtmosphericTechnicianHead: []
+      role: JobAtmosphericTechnician
+    JobSeniorEngineer:
+      selectedLoadouts:
+        GroupSpeciesBreathTool: []
+        StationEngineerJobTrinkets: []
+        Smokeables: []
+        Trinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyIPCBox
+        StationEngineerID:
+        - prototype: StationEngineerPDA
+        StationEngineerShoes:
+        - prototype: ClothingClothWrap
+        StationEngineerOuterClothing: []
+        StationEngineerBackpack:
+        - prototype: StationEngineerBackpack
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtility
+        StationEngineerGloves:
+        - prototype: CombatGloves
+        SeniorEngineerJumpsuit:
+        - prototype: UniformNudityPermit
+        StationEngineerNeck: []
+        StationEngineerHead: []
+        GroupTankHarness: []
+      role: JobSeniorEngineer
+    JobStationEngineer:
+      selectedLoadouts:
+        Smokeables: []
+        Trinkets: []
+        GroupSpeciesBreathTool: []
+        StationEngineerJobTrinkets: []
+        SurvivalExtended:
+        - prototype: EmergencyIPCBox
+        StationEngineerID:
+        - prototype: StationEngineerPDA
+        StationEngineerShoes:
+        - prototype: ClothingClothWrap
+        StationEngineerOuterClothing: []
+        StationEngineerBackpack:
+        - prototype: StationEngineerBackpack
+        StationEngineerBelts:
+        - prototype: ClothingBeltUtility
+        StationEngineerGloves:
+        - prototype: CombatGloves
+        StationEngineerJumpsuit:
+        - prototype: UniformNudityPermit
+        StationEngineerNeck: []
+        StationEngineerHead: []
+        GroupTankHarness: []
+      role: JobStationEngineer
+    JobPassenger:
+      selectedLoadouts:
+        Smokeables: []
+        Trinkets: []
+        GroupSpeciesBreathTool: []
+        PassengerJobTrinkets: []
+        Survival:
+        - prototype: EmergencyIPCBox
+        Glasses: []
+        PassengerShoes:
+        - prototype: BlackShoes
+        PassengerPDADelta:
+        - prototype: OffDutyCrewPDA
+        PassengerOuterClothing: []
+        PassengerGloves: []
+        PassengerFace: []
+        PassengerNeck: []
+        CommonBackpack:
+        - prototype: CommonBackpack
+        PassengerJumpsuit:
+        - prototype: GreyJumpsuit
+        AssistantHead: []
+        GroupTankHarness: []
+        Scarfs: []
+      role: JobPassenger
+  _traitPreferences:
+  - Paracusia
+  - MilkProducer
+  - SquirtProducer
+  - Freespeak
+  - SignLanguage
+  - Uncloneable
+  _antagPreferences: []
   _jobPriorities:
     AtmosphericTechnician: High
     SeniorEngineer: Medium
     StationEngineer: Low
 version: 1
-forkId: floof-station-nova
+forkId: custom
 ...
