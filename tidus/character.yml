@@ -3,61 +3,55 @@ profile:
   height: 1.0806924
   _antagPreferences: []
   _traitPreferences:
-  - Unborgable
-  - CumProducer
-  - SignLanguage
-  - Freespeak
-  - HeavyweightDrunk
-  - Bilingual
-  - CulinaryAdaptationTheobromine
-  - NormalVision
-  - CulinaryAdaptationAllicin
-  - AddictionNicotine
-  - WillToLive
-  - Heavyweight
-  - MartialArtist
+  - '{Prototype: Unborgable}'
+  - '{Prototype: CumProducer}'
+  - '{Prototype: SignLanguage}'
+  - '{Prototype: Freespeak}'
+  - '{Prototype: HeavyweightDrunk}'
+  - '{Prototype: Bilingual}'
+  - '{Prototype: CulinaryAdaptationTheobromine}'
+  - '{Prototype: NormalVision}'
+  - '{Prototype: CulinaryAdaptationAllicin}'
+  - '{Prototype: AddictionNicotine}'
+  - '{Prototype: WillToLive}'
+  - '{Prototype: Heavyweight}'
+  - '{Prototype: MartialArtist}'
   _loadoutPreferences:
-  - customHeirloom: null
+  - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutItemDrinkMREFlask
+    loadoutName: LoadoutUniformJumpsuitJeansBrown
     selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutHeadLily
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMedkitFilled
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutNeckHeadphones
+  - customHeirloom: False
+    customColorTint: '#FFF0C4FF'
+    customDescription: A faded looking satchel, with a tag attached, Tidus Herboren.
+    customName: Tidus' satchel
+    loadoutName: LoadoutBackpackSatchel
     selected: True
   - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutItemHandheldStationMap
+    loadoutName: LoadoutItemEnvelopes
     selected: True
-  - customHeirloom: null
-    customColorTint: '#FFFFFFFF'
-    customDescription: null
-    customName: Miu's leash
-    loadoutName: LoadoutItemLeashBasic
-    selected: True
-  - customHeirloom: null
+  - customHeirloom: False
     customColorTint: null
-    customDescription: A pretty uninspiring canine dildo. Seems smaller than the real thing.
-    customName: Tidus replica dildo
-    loadoutName: LoadoutItemCanineDildoRed
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringNeckNeckerchief
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringGlovesInsulated
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEngineeringEyesMeson
     selected: True
   - customHeirloom: False
     customColorTint: null
@@ -69,13 +63,49 @@ profile:
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutUniformJumpsuitTshirtJeansPeach
+    loadoutName: LoadoutNeckHeadphones
     selected: True
   - customHeirloom: null
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutEngineeringEyesMeson
+    loadoutName: LoadoutItemDrinkMREFlask
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemHandheldStationMap
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: A pretty uninspiring canine dildo. Seems smaller than the real thing.
+    customName: Tidus replica dildo
+    loadoutName: LoadoutItemCanineDildoRed
+    selected: True
+  - customHeirloom: False
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutShoesBootsJackFake
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemBoxFolderGrey
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutMedkitFilled
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutHeadLily
     selected: True
   - customHeirloom: False
     customColorTint: null
@@ -83,35 +113,23 @@ profile:
     customName: null
     loadoutName: LoadoutItemFlute
     selected: True
-  - customHeirloom: null
+  - customHeirloom: False
+    customColorTint: '#BEE8E3FF'
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEyesGlasses
+    selected: True
+  - customHeirloom: False
+    customColorTint: '#180601FF'
+    customDescription: The fuck are those..
+    customName: shoes?
+    loadoutName: LoadoutShoesMiscWhite
+    selected: True
+  - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutItemPapers
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringGlovesInsulated
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutMaskMuzzle
-    selected: True
-  - customHeirloom: null
-    customColorTint: '#FFF0C4FF'
-    customDescription: A faded looking satchel, with a tag attached, Tidus Herboren.
-    customName: Tidus' satchel
-    loadoutName: LoadoutBackpackSatchel
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutSolCommonTranslator
+    loadoutName: LoadoutEngineeringUniformSuit
     selected: True
   - customHeirloom: False
     customColorTint: '#6A664DFF'
@@ -119,51 +137,39 @@ profile:
     customName: Tidus' lighter
     loadoutName: LoadoutItemLighterFlippo
     selected: True
-  - customHeirloom: null
+  - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutEngineeringNeckNeckerchief
+    loadoutName: LoadoutAtmosphericTechnicianBeltUtilityAtmos
     selected: True
   - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutWebRing
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutItemEnvelopes
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutEngineeringUniformSuit
-    selected: True
-  - customHeirloom: null
-    customColorTint: null
-    customDescription: null
-    customName: null
-    loadoutName: LoadoutOuterDenimJacket
+    loadoutName: LoadoutSeniorEngineerBeltUtilityAtmos
     selected: True
   - customHeirloom: False
     customColorTint: null
     customDescription: null
     customName: null
-    loadoutName: LoadoutEyesGlasses
+    loadoutName: LoadoutStationEngineerUniformsSuit
     selected: True
-  - customHeirloom: null
+  - customHeirloom: False
     customColorTint: null
     customDescription: null
-    customName: Miu's clicker
-    loadoutName: LoadoutClicker
+    customName: null
+    loadoutName: LoadoutEngineeringClothingUniformJumpsuitAtmosCasual
+    selected: True
+  - customHeirloom: False
+    customColorTint: '#FFEB00FF'
+    customDescription: null
+    customName: atmos cyberjacket
+    loadoutName: LoadoutClothingOuterCyberJacketWhite
     selected: True
   name: Tidus Herboren
   flavorText: >-
-    A confident look on his face, his uniform gripping tight to his upper body showing signs of recent bulk without new clothing. Standing at 6'3" (190cm), seems focused and alert.
+    Standing at 6'3" (190cm), a confident look on his face, his uniform gripping tight to his upper body showing signs of recent bulk. 
 
 
     Art url: tidus.art
@@ -264,7 +270,7 @@ profile:
   backpack: Backpack
   spawnPriority: Cryosleep
   _jobPriorities:
-    StationEngineer: High
+    AtmosphericTechnician: High
 version: 1
 forkId: floof-station-nova
 ...
