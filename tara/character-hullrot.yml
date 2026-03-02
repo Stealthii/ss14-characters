@@ -1,0 +1,155 @@
+profile:
+  faction: DSM
+  bankBalance: 25000
+  _antagPreferences: []
+  _traitPreferences:
+  - Paracusia
+  - TemperatureTolerance
+  - MartialArtist
+  - Freespeak
+  - LightStep
+  - HeavyweightDrunk
+  _loadoutPreferences:
+  - customHeirloom: null
+    customColorTint: '#858585FF'
+    customDescription: null
+    customName: grey satchel
+    loadoutName: LoadoutBackpackSatchel
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutShoesBootsJackFake
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#DC4444FF'
+    customDescription: 'There is a small stitching in white: Наталья.'
+    customName: red mask
+    loadoutName: LoadoutMaskBandWhite
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemTrumpetInstrument
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemLunchboxGenericFilledRandom
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutItemHandheldStationMap
+    selected: True
+  - customHeirloom: null
+    customColorTint: '#2F2F2FFF'
+    customDescription: null
+    customName: fingerless gloves
+    loadoutName: LoadoutHandsGlovesFingerlessWhite
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutOuterBomberPunkRed
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutClothingJumpsuitSuitBlackAlt
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: HandheldCrewMonitor
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutMedkitCombatFilled
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LuxuryPen
+    selected: True
+  - customHeirloom: null
+    customColorTint: null
+    customDescription: null
+    customName: null
+    loadoutName: LoadoutEmergencyMedipen
+    selected: True
+  name: Tara Mason
+  flavorText: A short human (5'1"), with faded red hair, their face almost entirely hidden by a red mask except for blue eyes. Partially visible appears to be the works of robotic limbs and tension support down the left side of her body.
+  species: Human
+  nationality: Coalition
+  employer: NanoTrasen
+  lifepath: Mechanic
+  customspeciename: ""
+  height: 1
+  width: 1
+  age: 40
+  sex: Female
+  gender: Female
+  displayPronouns: null
+  stationAiName: null
+  cyborgName: null
+  appearance:
+    markings:
+    - markingId: CyberLimbsMarkingBishopLArm
+      visible: True
+      markingColor:
+      - '#7F7F7FFF'
+      - '#979797FF'
+      - '#A0A0A0FF'
+    - markingId: CyberLimbsMarkingBishopLHand
+      visible: True
+      markingColor:
+      - '#B3B3B3FF'
+    - markingId: CyberLimbsMarkingBishopLLeg
+      visible: True
+      markingColor:
+      - '#9E9E9EFF'
+      - '#72C6FFFF'
+    - markingId: CyberLimbsMarkingBishopLFoot
+      visible: True
+      markingColor:
+      - '#AAAAAAFF'
+    - markingId: ChestTwistingLeft
+      visible: True
+      markingColor:
+      - '#FFD9C6FF'
+    - markingId: ChestBackstabbed
+      visible: True
+      markingColor:
+      - '#FFD9C6FF'
+    - markingId: HumanNoseBlob
+      visible: True
+      markingColor:
+      - '#FFD9C6FF'
+    - markingId: FaceFullblush
+      visible: True
+      markingColor:
+      - '#B77CA7FF'
+    skinColor: '#FFE1CCFF'
+    eyeColor: '#2C59E0FF'
+    facialHairColor: '#8E0008FF'
+    facialHair: FacialHairShaved
+    hairColor: '#BA441BFF'
+    hair: HumanHairShortovereye
+  spawnPriority: None
+  preferenceUnavailable: StayInLobby
+  _jobPriorities:
+    ChiefEngineer: High
+version: 1
+forkId: hullrot
+...
